@@ -4,3 +4,5 @@
 .htmlhintrc
 .stylelintrc
 htmlhintrc
+sql_pass.txt
+storm_API.txt
