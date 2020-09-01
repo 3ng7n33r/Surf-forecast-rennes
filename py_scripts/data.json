@@ -1,0 +1,6994 @@
+{
+    "hours": [
+        {
+            "airTemperature": {
+                "noaa": 16.14
+            },
+            "secondarySwellDirection": {
+                "noaa": 267.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.07
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.24
+            },
+            "swellDirection": {
+                "noaa": 279.31
+            },
+            "swellHeight": {
+                "noaa": 0.2
+            },
+            "swellPeriod": {
+                "noaa": 6.87
+            },
+            "time": "2020-09-01T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.52
+            },
+            "waveDirection": {
+                "noaa": 273.2
+            },
+            "waveHeight": {
+                "noaa": 0.28
+            },
+            "wavePeriod": {
+                "noaa": 6.87
+            },
+            "windSpeed": {
+                "noaa": 4.63
+            },
+            "windWaveDirection": {
+                "noaa": 46.77
+            },
+            "windWaveHeight": {
+                "noaa": 0.16
+            },
+            "windWavePeriod": {
+                "noaa": 1.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.94
+            },
+            "secondarySwellDirection": {
+                "noaa": 269.98
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.09
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.05
+            },
+            "swellDirection": {
+                "noaa": 278.93
+            },
+            "swellHeight": {
+                "noaa": 0.19
+            },
+            "swellPeriod": {
+                "noaa": 6.86
+            },
+            "time": "2020-09-01T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.52
+            },
+            "waveDirection": {
+                "noaa": 273.86
+            },
+            "waveHeight": {
+                "noaa": 0.33
+            },
+            "wavePeriod": {
+                "noaa": 8.47
+            },
+            "windSpeed": {
+                "noaa": 5.22
+            },
+            "windWaveDirection": {
+                "noaa": 55.58
+            },
+            "windWaveHeight": {
+                "noaa": 0.22
+            },
+            "windWavePeriod": {
+                "noaa": 2.05
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.75
+            },
+            "secondarySwellDirection": {
+                "noaa": 272.97
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.12
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.85
+            },
+            "swellDirection": {
+                "noaa": 278.56
+            },
+            "swellHeight": {
+                "noaa": 0.19
+            },
+            "swellPeriod": {
+                "noaa": 6.85
+            },
+            "time": "2020-09-01T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.52
+            },
+            "waveDirection": {
+                "noaa": 274.52
+            },
+            "waveHeight": {
+                "noaa": 0.38
+            },
+            "wavePeriod": {
+                "noaa": 10.07
+            },
+            "windSpeed": {
+                "noaa": 5.81
+            },
+            "windWaveDirection": {
+                "noaa": 64.38
+            },
+            "windWaveHeight": {
+                "noaa": 0.29
+            },
+            "windWavePeriod": {
+                "noaa": 2.32
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 275.95
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.66
+            },
+            "swellDirection": {
+                "noaa": 278.18
+            },
+            "swellHeight": {
+                "noaa": 0.18
+            },
+            "swellPeriod": {
+                "noaa": 6.84
+            },
+            "time": "2020-09-01T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.52
+            },
+            "waveDirection": {
+                "noaa": 275.18
+            },
+            "waveHeight": {
+                "noaa": 0.43
+            },
+            "wavePeriod": {
+                "noaa": 11.67
+            },
+            "windSpeed": {
+                "noaa": 6.4
+            },
+            "windWaveDirection": {
+                "noaa": 73.19
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 2.58
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.76
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.16
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.04
+            },
+            "swellDirection": {
+                "noaa": 277.68
+            },
+            "swellHeight": {
+                "noaa": 0.21
+            },
+            "swellPeriod": {
+                "noaa": 8.13
+            },
+            "time": "2020-09-01T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.52
+            },
+            "waveDirection": {
+                "noaa": 275.49
+            },
+            "waveHeight": {
+                "noaa": 0.47
+            },
+            "wavePeriod": {
+                "noaa": 11.35
+            },
+            "windSpeed": {
+                "noaa": 6.39
+            },
+            "windWaveDirection": {
+                "noaa": 77.42
+            },
+            "windWaveHeight": {
+                "noaa": 0.38
+            },
+            "windWavePeriod": {
+                "noaa": 2.73
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.96
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.38
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 8.43
+            },
+            "swellDirection": {
+                "noaa": 277.17
+            },
+            "swellHeight": {
+                "noaa": 0.23
+            },
+            "swellPeriod": {
+                "noaa": 9.43
+            },
+            "time": "2020-09-01T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.53
+            },
+            "waveDirection": {
+                "noaa": 275.8
+            },
+            "waveHeight": {
+                "noaa": 0.5
+            },
+            "wavePeriod": {
+                "noaa": 11.04
+            },
+            "windSpeed": {
+                "noaa": 6.37
+            },
+            "windWaveDirection": {
+                "noaa": 81.64
+            },
+            "windWaveHeight": {
+                "noaa": 0.41
+            },
+            "windWavePeriod": {
+                "noaa": 2.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.17
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.59
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.16
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.81
+            },
+            "swellDirection": {
+                "noaa": 276.67
+            },
+            "swellHeight": {
+                "noaa": 0.26
+            },
+            "swellPeriod": {
+                "noaa": 10.72
+            },
+            "time": "2020-09-01T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.54
+            },
+            "waveDirection": {
+                "noaa": 276.11
+            },
+            "waveHeight": {
+                "noaa": 0.54
+            },
+            "wavePeriod": {
+                "noaa": 10.72
+            },
+            "windSpeed": {
+                "noaa": 6.36
+            },
+            "windWaveDirection": {
+                "noaa": 85.87
+            },
+            "windWaveHeight": {
+                "noaa": 0.44
+            },
+            "windWavePeriod": {
+                "noaa": 3.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.12
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.74
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.81
+            },
+            "swellDirection": {
+                "noaa": 276.52
+            },
+            "swellHeight": {
+                "noaa": 0.32
+            },
+            "swellPeriod": {
+                "noaa": 10.53
+            },
+            "time": "2020-09-01T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.55
+            },
+            "waveDirection": {
+                "noaa": 276.02
+            },
+            "waveHeight": {
+                "noaa": 0.57
+            },
+            "wavePeriod": {
+                "noaa": 10.53
+            },
+            "windSpeed": {
+                "noaa": 6.11
+            },
+            "windWaveDirection": {
+                "noaa": 88.48
+            },
+            "windWaveHeight": {
+                "noaa": 0.44
+            },
+            "windWavePeriod": {
+                "noaa": 3.1
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.08
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.89
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.8
+            },
+            "swellDirection": {
+                "noaa": 276.36
+            },
+            "swellHeight": {
+                "noaa": 0.38
+            },
+            "swellPeriod": {
+                "noaa": 10.34
+            },
+            "time": "2020-09-01T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.57
+            },
+            "waveDirection": {
+                "noaa": 275.92
+            },
+            "waveHeight": {
+                "noaa": 0.59
+            },
+            "wavePeriod": {
+                "noaa": 10.34
+            },
+            "windSpeed": {
+                "noaa": 5.85
+            },
+            "windWaveDirection": {
+                "noaa": 91.08
+            },
+            "windWaveHeight": {
+                "noaa": 0.43
+            },
+            "windWavePeriod": {
+                "noaa": 3.15
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.03
+            },
+            "secondarySwellDirection": {
+                "noaa": 277.04
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.8
+            },
+            "swellDirection": {
+                "noaa": 276.21
+            },
+            "swellHeight": {
+                "noaa": 0.44
+            },
+            "swellPeriod": {
+                "noaa": 10.15
+            },
+            "time": "2020-09-01T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.58
+            },
+            "waveDirection": {
+                "noaa": 275.83
+            },
+            "waveHeight": {
+                "noaa": 0.62
+            },
+            "wavePeriod": {
+                "noaa": 10.15
+            },
+            "windSpeed": {
+                "noaa": 5.6
+            },
+            "windWaveDirection": {
+                "noaa": 93.69
+            },
+            "windWaveHeight": {
+                "noaa": 0.43
+            },
+            "windWavePeriod": {
+                "noaa": 3.21
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.3
+            },
+            "secondarySwellDirection": {
+                "noaa": 225.99
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 5.81
+            },
+            "swellDirection": {
+                "noaa": 275.94
+            },
+            "swellHeight": {
+                "noaa": 0.49
+            },
+            "swellPeriod": {
+                "noaa": 9.97
+            },
+            "time": "2020-09-01T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.65
+            },
+            "waveDirection": {
+                "noaa": 275.48
+            },
+            "waveHeight": {
+                "noaa": 0.64
+            },
+            "wavePeriod": {
+                "noaa": 9.97
+            },
+            "windSpeed": {
+                "noaa": 4.98
+            },
+            "windWaveDirection": {
+                "noaa": 97.25
+            },
+            "windWaveHeight": {
+                "noaa": 0.4
+            },
+            "windWavePeriod": {
+                "noaa": 3.21
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 174.94
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.29
+            },
+            "secondarySwellPeriod": {
+                "noaa": 4.82
+            },
+            "swellDirection": {
+                "noaa": 275.68
+            },
+            "swellHeight": {
+                "noaa": 0.53
+            },
+            "swellPeriod": {
+                "noaa": 9.8
+            },
+            "time": "2020-09-01T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.73
+            },
+            "waveDirection": {
+                "noaa": 275.12
+            },
+            "waveHeight": {
+                "noaa": 0.66
+            },
+            "wavePeriod": {
+                "noaa": 9.8
+            },
+            "windSpeed": {
+                "noaa": 4.37
+            },
+            "windWaveDirection": {
+                "noaa": 100.82
+            },
+            "windWaveHeight": {
+                "noaa": 0.38
+            },
+            "windWavePeriod": {
+                "noaa": 3.22
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.85
+            },
+            "secondarySwellDirection": {
+                "noaa": 123.89
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.37
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.83
+            },
+            "swellDirection": {
+                "noaa": 275.41
+            },
+            "swellHeight": {
+                "noaa": 0.58
+            },
+            "swellPeriod": {
+                "noaa": 9.62
+            },
+            "time": "2020-09-01T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.8
+            },
+            "waveDirection": {
+                "noaa": 274.77
+            },
+            "waveHeight": {
+                "noaa": 0.68
+            },
+            "wavePeriod": {
+                "noaa": 9.62
+            },
+            "windSpeed": {
+                "noaa": 3.75
+            },
+            "windWaveDirection": {
+                "noaa": 104.38
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 3.22
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.02
+            },
+            "secondarySwellDirection": {
+                "noaa": 122.57
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.33
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.62
+            },
+            "swellDirection": {
+                "noaa": 274.85
+            },
+            "swellHeight": {
+                "noaa": 0.61
+            },
+            "swellPeriod": {
+                "noaa": 9.46
+            },
+            "time": "2020-09-01T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.91
+            },
+            "waveDirection": {
+                "noaa": 274.11
+            },
+            "waveHeight": {
+                "noaa": 0.69
+            },
+            "wavePeriod": {
+                "noaa": 9.46
+            },
+            "windSpeed": {
+                "noaa": 3.15
+            },
+            "windWaveDirection": {
+                "noaa": 45.03
+            },
+            "windWaveHeight": {
+                "noaa": 0.34
+            },
+            "windWavePeriod": {
+                "noaa": 2.92
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.18
+            },
+            "secondarySwellDirection": {
+                "noaa": 121.26
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.3
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.42
+            },
+            "swellDirection": {
+                "noaa": 274.28
+            },
+            "swellHeight": {
+                "noaa": 0.64
+            },
+            "swellPeriod": {
+                "noaa": 9.31
+            },
+            "time": "2020-09-01T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.02
+            },
+            "waveDirection": {
+                "noaa": 273.44
+            },
+            "waveHeight": {
+                "noaa": 0.71
+            },
+            "wavePeriod": {
+                "noaa": 9.31
+            },
+            "windSpeed": {
+                "noaa": 2.56
+            },
+            "windWaveDirection": {
+                "noaa": 345.69
+            },
+            "windWaveHeight": {
+                "noaa": 0.32
+            },
+            "windWavePeriod": {
+                "noaa": 2.61
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.35
+            },
+            "secondarySwellDirection": {
+                "noaa": 119.94
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.26
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.21
+            },
+            "swellDirection": {
+                "noaa": 273.72
+            },
+            "swellHeight": {
+                "noaa": 0.67
+            },
+            "swellPeriod": {
+                "noaa": 9.15
+            },
+            "time": "2020-09-01T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.13
+            },
+            "waveDirection": {
+                "noaa": 272.78
+            },
+            "waveHeight": {
+                "noaa": 0.72
+            },
+            "wavePeriod": {
+                "noaa": 9.15
+            },
+            "windSpeed": {
+                "noaa": 1.96
+            },
+            "windWaveDirection": {
+                "noaa": 286.34
+            },
+            "windWaveHeight": {
+                "noaa": 0.31
+            },
+            "windWavePeriod": {
+                "noaa": 2.31
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.48
+            },
+            "secondarySwellDirection": {
+                "noaa": 124.33
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.24
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.28
+            },
+            "swellDirection": {
+                "noaa": 273.05
+            },
+            "swellHeight": {
+                "noaa": 0.69
+            },
+            "swellPeriod": {
+                "noaa": 9.03
+            },
+            "time": "2020-09-01T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.03
+            },
+            "waveDirection": {
+                "noaa": 272.22
+            },
+            "waveHeight": {
+                "noaa": 0.73
+            },
+            "wavePeriod": {
+                "noaa": 9.03
+            },
+            "windSpeed": {
+                "noaa": 2.51
+            },
+            "windWaveDirection": {
+                "noaa": 283.38
+            },
+            "windWaveHeight": {
+                "noaa": 0.52
+            },
+            "windWavePeriod": {
+                "noaa": 4.34
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.6
+            },
+            "secondarySwellDirection": {
+                "noaa": 128.73
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.36
+            },
+            "swellDirection": {
+                "noaa": 272.39
+            },
+            "swellHeight": {
+                "noaa": 0.7
+            },
+            "swellPeriod": {
+                "noaa": 8.91
+            },
+            "time": "2020-09-01T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.93
+            },
+            "waveDirection": {
+                "noaa": 271.66
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 8.91
+            },
+            "windSpeed": {
+                "noaa": 3.06
+            },
+            "windWaveDirection": {
+                "noaa": 280.43
+            },
+            "windWaveHeight": {
+                "noaa": 0.73
+            },
+            "windWavePeriod": {
+                "noaa": 6.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.73
+            },
+            "secondarySwellDirection": {
+                "noaa": 133.12
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.2
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.43
+            },
+            "swellDirection": {
+                "noaa": 271.72
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 8.79
+            },
+            "time": "2020-09-01T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.83
+            },
+            "waveDirection": {
+                "noaa": 271.1
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 8.79
+            },
+            "windSpeed": {
+                "noaa": 3.61
+            },
+            "windWaveDirection": {
+                "noaa": 277.47
+            },
+            "windWaveHeight": {
+                "noaa": 0.94
+            },
+            "windWavePeriod": {
+                "noaa": 8.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.66
+            },
+            "secondarySwellDirection": {
+                "noaa": 135.59
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.19
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.58
+            },
+            "swellDirection": {
+                "noaa": 271.14
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 8.67
+            },
+            "time": "2020-09-01T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.71
+            },
+            "waveDirection": {
+                "noaa": 270.29
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 8.67
+            },
+            "windSpeed": {
+                "noaa": 3.65
+            },
+            "windWaveDirection": {
+                "noaa": 295.37
+            },
+            "windWaveHeight": {
+                "noaa": 0.75
+            },
+            "windWavePeriod": {
+                "noaa": 6.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.59
+            },
+            "secondarySwellDirection": {
+                "noaa": 138.07
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.17
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.74
+            },
+            "swellDirection": {
+                "noaa": 270.55
+            },
+            "swellHeight": {
+                "noaa": 0.73
+            },
+            "swellPeriod": {
+                "noaa": 8.55
+            },
+            "time": "2020-09-01T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.59
+            },
+            "waveDirection": {
+                "noaa": 269.49
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 8.55
+            },
+            "windSpeed": {
+                "noaa": 3.7
+            },
+            "windWaveDirection": {
+                "noaa": 313.27
+            },
+            "windWaveHeight": {
+                "noaa": 0.56
+            },
+            "windWavePeriod": {
+                "noaa": 4.52
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.53
+            },
+            "secondarySwellDirection": {
+                "noaa": 140.54
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.16
+            },
+            "secondarySwellPeriod": {
+                "noaa": 3.89
+            },
+            "swellDirection": {
+                "noaa": 269.97
+            },
+            "swellHeight": {
+                "noaa": 0.73
+            },
+            "swellPeriod": {
+                "noaa": 8.43
+            },
+            "time": "2020-09-01T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.47
+            },
+            "waveDirection": {
+                "noaa": 268.68
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 8.43
+            },
+            "windSpeed": {
+                "noaa": 3.74
+            },
+            "windWaveDirection": {
+                "noaa": 331.17
+            },
+            "windWaveHeight": {
+                "noaa": 0.37
+            },
+            "windWavePeriod": {
+                "noaa": 2.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.21
+            },
+            "secondarySwellDirection": {
+                "noaa": 184.64
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.19
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.07
+            },
+            "swellDirection": {
+                "noaa": 269.65
+            },
+            "swellHeight": {
+                "noaa": 0.73
+            },
+            "swellPeriod": {
+                "noaa": 8.35
+            },
+            "time": "2020-09-01T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.46
+            },
+            "waveDirection": {
+                "noaa": 268.47
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 8.35
+            },
+            "windSpeed": {
+                "noaa": 3.98
+            },
+            "windWaveDirection": {
+                "noaa": 13.41
+            },
+            "windWaveHeight": {
+                "noaa": 0.31
+            },
+            "windWavePeriod": {
+                "noaa": 3.05
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.89
+            },
+            "secondarySwellDirection": {
+                "noaa": 228.74
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 8.24
+            },
+            "swellDirection": {
+                "noaa": 269.34
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 8.27
+            },
+            "time": "2020-09-01T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.46
+            },
+            "waveDirection": {
+                "noaa": 268.27
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 8.27
+            },
+            "windSpeed": {
+                "noaa": 4.23
+            },
+            "windWaveDirection": {
+                "noaa": 55.65
+            },
+            "windWaveHeight": {
+                "noaa": 0.24
+            },
+            "windWavePeriod": {
+                "noaa": 3.51
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 272.84
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.25
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.42
+            },
+            "swellDirection": {
+                "noaa": 269.02
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 8.19
+            },
+            "time": "2020-09-02T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.45
+            },
+            "waveDirection": {
+                "noaa": 268.06
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 8.19
+            },
+            "windSpeed": {
+                "noaa": 4.47
+            },
+            "windWaveDirection": {
+                "noaa": 97.89
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 3.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.36
+            },
+            "secondarySwellDirection": {
+                "noaa": 272.85
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.51
+            },
+            "swellDirection": {
+                "noaa": 269.01
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 8.12
+            },
+            "time": "2020-09-02T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.43
+            },
+            "waveDirection": {
+                "noaa": 267.67
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 8.12
+            },
+            "windSpeed": {
+                "noaa": 4.07
+            },
+            "windWaveDirection": {
+                "noaa": 97.29
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 3.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.14
+            },
+            "secondarySwellDirection": {
+                "noaa": 272.85
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.2
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.6
+            },
+            "swellDirection": {
+                "noaa": 268.99
+            },
+            "swellHeight": {
+                "noaa": 0.71
+            },
+            "swellPeriod": {
+                "noaa": 8.04
+            },
+            "time": "2020-09-02T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.42
+            },
+            "waveDirection": {
+                "noaa": 267.29
+            },
+            "waveHeight": {
+                "noaa": 0.73
+            },
+            "wavePeriod": {
+                "noaa": 8.04
+            },
+            "windSpeed": {
+                "noaa": 3.67
+            },
+            "windWaveDirection": {
+                "noaa": 96.7
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 2.69
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.91
+            },
+            "secondarySwellDirection": {
+                "noaa": 272.86
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.17
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.69
+            },
+            "swellDirection": {
+                "noaa": 268.98
+            },
+            "swellHeight": {
+                "noaa": 0.71
+            },
+            "swellPeriod": {
+                "noaa": 7.97
+            },
+            "time": "2020-09-02T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.4
+            },
+            "waveDirection": {
+                "noaa": 266.9
+            },
+            "waveHeight": {
+                "noaa": 0.73
+            },
+            "wavePeriod": {
+                "noaa": 7.97
+            },
+            "windSpeed": {
+                "noaa": 3.27
+            },
+            "windWaveDirection": {
+                "noaa": 96.1
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 2.05
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.9
+            },
+            "secondarySwellDirection": {
+                "noaa": 273.89
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.56
+            },
+            "swellDirection": {
+                "noaa": 268.71
+            },
+            "swellHeight": {
+                "noaa": 0.7
+            },
+            "swellPeriod": {
+                "noaa": 7.93
+            },
+            "time": "2020-09-02T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.39
+            },
+            "waveDirection": {
+                "noaa": 267.32
+            },
+            "waveHeight": {
+                "noaa": 0.73
+            },
+            "wavePeriod": {
+                "noaa": 7.93
+            },
+            "windSpeed": {
+                "noaa": 3.1
+            },
+            "windWaveDirection": {
+                "noaa": 90.65
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 2.18
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.88
+            },
+            "secondarySwellDirection": {
+                "noaa": 274.91
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.26
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.43
+            },
+            "swellDirection": {
+                "noaa": 268.43
+            },
+            "swellHeight": {
+                "noaa": 0.68
+            },
+            "swellPeriod": {
+                "noaa": 7.9
+            },
+            "time": "2020-09-02T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.37
+            },
+            "waveDirection": {
+                "noaa": 267.73
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 7.9
+            },
+            "windSpeed": {
+                "noaa": 2.94
+            },
+            "windWaveDirection": {
+                "noaa": 85.2
+            },
+            "windWaveHeight": {
+                "noaa": 0.19
+            },
+            "windWavePeriod": {
+                "noaa": 2.31
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.87
+            },
+            "secondarySwellDirection": {
+                "noaa": 275.94
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.31
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.3
+            },
+            "swellDirection": {
+                "noaa": 268.16
+            },
+            "swellHeight": {
+                "noaa": 0.67
+            },
+            "swellPeriod": {
+                "noaa": 7.86
+            },
+            "time": "2020-09-02T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 268.15
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 7.86
+            },
+            "windSpeed": {
+                "noaa": 2.77
+            },
+            "windWaveDirection": {
+                "noaa": 79.75
+            },
+            "windWaveHeight": {
+                "noaa": 0.19
+            },
+            "windWavePeriod": {
+                "noaa": 2.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.88
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.09
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.32
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.27
+            },
+            "swellDirection": {
+                "noaa": 268.54
+            },
+            "swellHeight": {
+                "noaa": 0.67
+            },
+            "swellPeriod": {
+                "noaa": 7.84
+            },
+            "time": "2020-09-02T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.39
+            },
+            "waveDirection": {
+                "noaa": 268.88
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 7.84
+            },
+            "windSpeed": {
+                "noaa": 2.75
+            },
+            "windWaveDirection": {
+                "noaa": 106.97
+            },
+            "windWaveHeight": {
+                "noaa": 0.2
+            },
+            "windWavePeriod": {
+                "noaa": 2.42
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.9
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.24
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.34
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.24
+            },
+            "swellDirection": {
+                "noaa": 268.91
+            },
+            "swellHeight": {
+                "noaa": 0.67
+            },
+            "swellPeriod": {
+                "noaa": 7.83
+            },
+            "time": "2020-09-02T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.42
+            },
+            "waveDirection": {
+                "noaa": 269.6
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 7.83
+            },
+            "windSpeed": {
+                "noaa": 2.74
+            },
+            "windWaveDirection": {
+                "noaa": 134.19
+            },
+            "windWaveHeight": {
+                "noaa": 0.22
+            },
+            "windWavePeriod": {
+                "noaa": 2.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.92
+            },
+            "secondarySwellDirection": {
+                "noaa": 276.39
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.35
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.21
+            },
+            "swellDirection": {
+                "noaa": 269.29
+            },
+            "swellHeight": {
+                "noaa": 0.67
+            },
+            "swellPeriod": {
+                "noaa": 7.81
+            },
+            "time": "2020-09-02T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.46
+            },
+            "waveDirection": {
+                "noaa": 270.33
+            },
+            "waveHeight": {
+                "noaa": 0.76
+            },
+            "wavePeriod": {
+                "noaa": 7.81
+            },
+            "windSpeed": {
+                "noaa": 2.72
+            },
+            "windWaveDirection": {
+                "noaa": 161.4
+            },
+            "windWaveHeight": {
+                "noaa": 0.23
+            },
+            "windWavePeriod": {
+                "noaa": 2.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.17
+            },
+            "secondarySwellDirection": {
+                "noaa": 275.84
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.38
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.09
+            },
+            "swellDirection": {
+                "noaa": 269.77
+            },
+            "swellHeight": {
+                "noaa": 0.66
+            },
+            "swellPeriod": {
+                "noaa": 7.83
+            },
+            "time": "2020-09-02T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.68
+            },
+            "waveDirection": {
+                "noaa": 272.2
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 8.41
+            },
+            "windSpeed": {
+                "noaa": 2.62
+            },
+            "windWaveDirection": {
+                "noaa": 188.62
+            },
+            "windWaveHeight": {
+                "noaa": 0.24
+            },
+            "windWavePeriod": {
+                "noaa": 2.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.43
+            },
+            "secondarySwellDirection": {
+                "noaa": 275.29
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.4
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.96
+            },
+            "swellDirection": {
+                "noaa": 270.25
+            },
+            "swellHeight": {
+                "noaa": 0.65
+            },
+            "swellPeriod": {
+                "noaa": 7.85
+            },
+            "time": "2020-09-02T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.9
+            },
+            "waveDirection": {
+                "noaa": 274.07
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 9.0
+            },
+            "windSpeed": {
+                "noaa": 2.51
+            },
+            "windWaveDirection": {
+                "noaa": 215.84
+            },
+            "windWaveHeight": {
+                "noaa": 0.26
+            },
+            "windWavePeriod": {
+                "noaa": 2.32
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.69
+            },
+            "secondarySwellDirection": {
+                "noaa": 274.74
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.43
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.84
+            },
+            "swellDirection": {
+                "noaa": 270.73
+            },
+            "swellHeight": {
+                "noaa": 0.64
+            },
+            "swellPeriod": {
+                "noaa": 7.87
+            },
+            "time": "2020-09-02T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.12
+            },
+            "waveDirection": {
+                "noaa": 275.94
+            },
+            "waveHeight": {
+                "noaa": 0.78
+            },
+            "wavePeriod": {
+                "noaa": 9.6
+            },
+            "windSpeed": {
+                "noaa": 2.41
+            },
+            "windWaveDirection": {
+                "noaa": 243.06
+            },
+            "windWaveHeight": {
+                "noaa": 0.27
+            },
+            "windWavePeriod": {
+                "noaa": 2.3
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.1
+            },
+            "secondarySwellDirection": {
+                "noaa": 279.71
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.33
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.86
+            },
+            "swellDirection": {
+                "noaa": 271.44
+            },
+            "swellHeight": {
+                "noaa": 0.69
+            },
+            "swellPeriod": {
+                "noaa": 8.42
+            },
+            "time": "2020-09-02T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.27
+            },
+            "waveDirection": {
+                "noaa": 276.0
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 9.57
+            },
+            "windSpeed": {
+                "noaa": 2.83
+            },
+            "windWaveDirection": {
+                "noaa": 244.94
+            },
+            "windWaveHeight": {
+                "noaa": 0.46
+            },
+            "windWavePeriod": {
+                "noaa": 4.1
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.5
+            },
+            "secondarySwellDirection": {
+                "noaa": 284.69
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.24
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.87
+            },
+            "swellDirection": {
+                "noaa": 272.15
+            },
+            "swellHeight": {
+                "noaa": 0.74
+            },
+            "swellPeriod": {
+                "noaa": 8.97
+            },
+            "time": "2020-09-02T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.41
+            },
+            "waveDirection": {
+                "noaa": 276.06
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 9.55
+            },
+            "windSpeed": {
+                "noaa": 3.26
+            },
+            "windWaveDirection": {
+                "noaa": 246.83
+            },
+            "windWaveHeight": {
+                "noaa": 0.64
+            },
+            "windWavePeriod": {
+                "noaa": 5.9
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.91
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.66
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.89
+            },
+            "swellDirection": {
+                "noaa": 272.86
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.52
+            },
+            "time": "2020-09-02T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.55
+            },
+            "waveDirection": {
+                "noaa": 276.12
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 9.52
+            },
+            "windSpeed": {
+                "noaa": 3.68
+            },
+            "windWaveDirection": {
+                "noaa": 248.71
+            },
+            "windWaveHeight": {
+                "noaa": 0.83
+            },
+            "windWavePeriod": {
+                "noaa": 7.7
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.82
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.08
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.13
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.82
+            },
+            "swellDirection": {
+                "noaa": 273.16
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.48
+            },
+            "time": "2020-09-02T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.28
+            },
+            "waveDirection": {
+                "noaa": 276.16
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 9.48
+            },
+            "windSpeed": {
+                "noaa": 4.1
+            },
+            "windWaveDirection": {
+                "noaa": 257.4
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 5.73
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.74
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.49
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.13
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.75
+            },
+            "swellDirection": {
+                "noaa": 273.46
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.45
+            },
+            "time": "2020-09-02T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.02
+            },
+            "waveDirection": {
+                "noaa": 276.19
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 9.45
+            },
+            "windSpeed": {
+                "noaa": 4.53
+            },
+            "windWaveDirection": {
+                "noaa": 266.08
+            },
+            "windWaveHeight": {
+                "noaa": 0.39
+            },
+            "windWavePeriod": {
+                "noaa": 3.77
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.66
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.91
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.12
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.68
+            },
+            "swellDirection": {
+                "noaa": 273.76
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.41
+            },
+            "time": "2020-09-02T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.75
+            },
+            "waveDirection": {
+                "noaa": 276.23
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 9.41
+            },
+            "windSpeed": {
+                "noaa": 4.95
+            },
+            "windWaveDirection": {
+                "noaa": 274.77
+            },
+            "windWaveHeight": {
+                "noaa": 0.17
+            },
+            "windWavePeriod": {
+                "noaa": 1.8
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.6
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.53
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.13
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.57
+            },
+            "swellDirection": {
+                "noaa": 273.83
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.47
+            },
+            "time": "2020-09-02T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.65
+            },
+            "waveDirection": {
+                "noaa": 276.31
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 9.47
+            },
+            "windSpeed": {
+                "noaa": 4.63
+            },
+            "windWaveDirection": {
+                "noaa": 278.55
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 1.92
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.15
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.46
+            },
+            "swellDirection": {
+                "noaa": 273.9
+            },
+            "swellHeight": {
+                "noaa": 0.78
+            },
+            "swellPeriod": {
+                "noaa": 9.54
+            },
+            "time": "2020-09-02T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.55
+            },
+            "waveDirection": {
+                "noaa": 276.38
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 9.54
+            },
+            "windSpeed": {
+                "noaa": 4.31
+            },
+            "windWaveDirection": {
+                "noaa": 282.34
+            },
+            "windWaveHeight": {
+                "noaa": 0.18
+            },
+            "windWavePeriod": {
+                "noaa": 2.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.5
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.77
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.35
+            },
+            "swellDirection": {
+                "noaa": 273.97
+            },
+            "swellHeight": {
+                "noaa": 0.78
+            },
+            "swellPeriod": {
+                "noaa": 9.6
+            },
+            "time": "2020-09-02T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.45
+            },
+            "waveDirection": {
+                "noaa": 276.46
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 9.6
+            },
+            "windSpeed": {
+                "noaa": 3.99
+            },
+            "windWaveDirection": {
+                "noaa": 286.12
+            },
+            "windWaveHeight": {
+                "noaa": 0.19
+            },
+            "windWavePeriod": {
+                "noaa": 2.15
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.34
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.64
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.37
+            },
+            "swellDirection": {
+                "noaa": 274.55
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.73
+            },
+            "time": "2020-09-02T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.46
+            },
+            "waveDirection": {
+                "noaa": 276.78
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 9.73
+            },
+            "windSpeed": {
+                "noaa": 3.48
+            },
+            "windWaveDirection": {
+                "noaa": 269.87
+            },
+            "windWaveHeight": {
+                "noaa": 0.28
+            },
+            "windWavePeriod": {
+                "noaa": 2.45
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.18
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.51
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.39
+            },
+            "swellDirection": {
+                "noaa": 275.13
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 9.86
+            },
+            "time": "2020-09-02T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.47
+            },
+            "waveDirection": {
+                "noaa": 277.11
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 9.86
+            },
+            "windSpeed": {
+                "noaa": 2.96
+            },
+            "windWaveDirection": {
+                "noaa": 253.63
+            },
+            "windWaveHeight": {
+                "noaa": 0.36
+            },
+            "windWavePeriod": {
+                "noaa": 2.76
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.02
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.38
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.41
+            },
+            "swellDirection": {
+                "noaa": 275.71
+            },
+            "swellHeight": {
+                "noaa": 0.8
+            },
+            "swellPeriod": {
+                "noaa": 9.99
+            },
+            "time": "2020-09-03T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.47
+            },
+            "waveDirection": {
+                "noaa": 277.43
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 9.99
+            },
+            "windSpeed": {
+                "noaa": 2.45
+            },
+            "windWaveDirection": {
+                "noaa": 237.38
+            },
+            "windWaveHeight": {
+                "noaa": 0.45
+            },
+            "windWavePeriod": {
+                "noaa": 3.06
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.84
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.25
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.43
+            },
+            "swellDirection": {
+                "noaa": 276.05
+            },
+            "swellHeight": {
+                "noaa": 0.8
+            },
+            "swellPeriod": {
+                "noaa": 10.06
+            },
+            "time": "2020-09-03T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.43
+            },
+            "waveDirection": {
+                "noaa": 278.48
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 10.06
+            },
+            "windSpeed": {
+                "noaa": 2.14
+            },
+            "windWaveDirection": {
+                "noaa": 238.86
+            },
+            "windWaveHeight": {
+                "noaa": 0.5
+            },
+            "windWavePeriod": {
+                "noaa": 3.24
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.65
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.12
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.45
+            },
+            "swellDirection": {
+                "noaa": 276.4
+            },
+            "swellHeight": {
+                "noaa": 0.81
+            },
+            "swellPeriod": {
+                "noaa": 10.13
+            },
+            "time": "2020-09-03T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.39
+            },
+            "waveDirection": {
+                "noaa": 279.52
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 10.13
+            },
+            "windSpeed": {
+                "noaa": 1.82
+            },
+            "windWaveDirection": {
+                "noaa": 240.35
+            },
+            "windWaveHeight": {
+                "noaa": 0.56
+            },
+            "windWavePeriod": {
+                "noaa": 3.43
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.46
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.99
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.47
+            },
+            "swellDirection": {
+                "noaa": 276.74
+            },
+            "swellHeight": {
+                "noaa": 0.81
+            },
+            "swellPeriod": {
+                "noaa": 10.2
+            },
+            "time": "2020-09-03T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 280.57
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 10.2
+            },
+            "windSpeed": {
+                "noaa": 1.51
+            },
+            "windWaveDirection": {
+                "noaa": 241.83
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 3.61
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.53
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.86
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.49
+            },
+            "swellDirection": {
+                "noaa": 277.12
+            },
+            "swellHeight": {
+                "noaa": 0.82
+            },
+            "swellPeriod": {
+                "noaa": 10.21
+            },
+            "time": "2020-09-03T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 280.79
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 10.21
+            },
+            "windSpeed": {
+                "noaa": 1.26
+            },
+            "windWaveDirection": {
+                "noaa": 242.72
+            },
+            "windWaveHeight": {
+                "noaa": 0.65
+            },
+            "windWavePeriod": {
+                "noaa": 3.76
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.59
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.73
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.51
+            },
+            "swellDirection": {
+                "noaa": 277.49
+            },
+            "swellHeight": {
+                "noaa": 0.83
+            },
+            "swellPeriod": {
+                "noaa": 10.21
+            },
+            "time": "2020-09-03T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 281.0
+            },
+            "waveHeight": {
+                "noaa": 0.83
+            },
+            "wavePeriod": {
+                "noaa": 10.21
+            },
+            "windSpeed": {
+                "noaa": 1.01
+            },
+            "windWaveDirection": {
+                "noaa": 243.6
+            },
+            "windWaveHeight": {
+                "noaa": 0.7
+            },
+            "windWavePeriod": {
+                "noaa": 3.9
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.66
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.6
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.53
+            },
+            "swellDirection": {
+                "noaa": 277.87
+            },
+            "swellHeight": {
+                "noaa": 0.84
+            },
+            "swellPeriod": {
+                "noaa": 10.22
+            },
+            "time": "2020-09-03T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.34
+            },
+            "waveDirection": {
+                "noaa": 281.22
+            },
+            "waveHeight": {
+                "noaa": 0.84
+            },
+            "wavePeriod": {
+                "noaa": 10.22
+            },
+            "windSpeed": {
+                "noaa": 0.76
+            },
+            "windWaveDirection": {
+                "noaa": 244.49
+            },
+            "windWaveHeight": {
+                "noaa": 0.74
+            },
+            "windWavePeriod": {
+                "noaa": 4.05
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.9
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.47
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.55
+            },
+            "swellDirection": {
+                "noaa": 278.11
+            },
+            "swellHeight": {
+                "noaa": 0.85
+            },
+            "swellPeriod": {
+                "noaa": 10.2
+            },
+            "time": "2020-09-03T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.41
+            },
+            "waveDirection": {
+                "noaa": 281.12
+            },
+            "waveHeight": {
+                "noaa": 0.85
+            },
+            "wavePeriod": {
+                "noaa": 10.2
+            },
+            "windSpeed": {
+                "noaa": 1.17
+            },
+            "windWaveDirection": {
+                "noaa": 251.43
+            },
+            "windWaveHeight": {
+                "noaa": 0.89
+            },
+            "windWavePeriod": {
+                "noaa": 5.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.15
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.35
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.57
+            },
+            "swellDirection": {
+                "noaa": 278.34
+            },
+            "swellHeight": {
+                "noaa": 0.86
+            },
+            "swellPeriod": {
+                "noaa": 10.18
+            },
+            "time": "2020-09-03T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.48
+            },
+            "waveDirection": {
+                "noaa": 281.02
+            },
+            "waveHeight": {
+                "noaa": 0.86
+            },
+            "wavePeriod": {
+                "noaa": 10.18
+            },
+            "windSpeed": {
+                "noaa": 1.59
+            },
+            "windWaveDirection": {
+                "noaa": 258.37
+            },
+            "windWaveHeight": {
+                "noaa": 1.04
+            },
+            "windWavePeriod": {
+                "noaa": 7.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.39
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.22
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.59
+            },
+            "swellDirection": {
+                "noaa": 278.58
+            },
+            "swellHeight": {
+                "noaa": 0.87
+            },
+            "swellPeriod": {
+                "noaa": 10.16
+            },
+            "time": "2020-09-03T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.55
+            },
+            "waveDirection": {
+                "noaa": 280.92
+            },
+            "waveHeight": {
+                "noaa": 0.87
+            },
+            "wavePeriod": {
+                "noaa": 10.16
+            },
+            "windSpeed": {
+                "noaa": 2.0
+            },
+            "windWaveDirection": {
+                "noaa": 265.31
+            },
+            "windWaveHeight": {
+                "noaa": 1.19
+            },
+            "windWavePeriod": {
+                "noaa": 9.8
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.09
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.61
+            },
+            "swellDirection": {
+                "noaa": 278.71
+            },
+            "swellHeight": {
+                "noaa": 0.88
+            },
+            "swellPeriod": {
+                "noaa": 10.13
+            },
+            "time": "2020-09-03T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.76
+            },
+            "waveDirection": {
+                "noaa": 280.87
+            },
+            "waveHeight": {
+                "noaa": 0.88
+            },
+            "wavePeriod": {
+                "noaa": 10.13
+            },
+            "windSpeed": {
+                "noaa": 2.25
+            },
+            "windWaveDirection": {
+                "noaa": 265.62
+            },
+            "windWaveHeight": {
+                "noaa": 1.21
+            },
+            "windWavePeriod": {
+                "noaa": 9.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.77
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.96
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.63
+            },
+            "swellDirection": {
+                "noaa": 278.85
+            },
+            "swellHeight": {
+                "noaa": 0.88
+            },
+            "swellPeriod": {
+                "noaa": 10.1
+            },
+            "time": "2020-09-03T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.97
+            },
+            "waveDirection": {
+                "noaa": 280.83
+            },
+            "waveHeight": {
+                "noaa": 0.88
+            },
+            "wavePeriod": {
+                "noaa": 10.1
+            },
+            "windSpeed": {
+                "noaa": 2.5
+            },
+            "windWaveDirection": {
+                "noaa": 265.92
+            },
+            "windWaveHeight": {
+                "noaa": 1.24
+            },
+            "windWavePeriod": {
+                "noaa": 9.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.97
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.83
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.65
+            },
+            "swellDirection": {
+                "noaa": 278.98
+            },
+            "swellHeight": {
+                "noaa": 0.89
+            },
+            "swellPeriod": {
+                "noaa": 10.07
+            },
+            "time": "2020-09-03T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.19
+            },
+            "waveDirection": {
+                "noaa": 280.78
+            },
+            "waveHeight": {
+                "noaa": 0.89
+            },
+            "wavePeriod": {
+                "noaa": 10.07
+            },
+            "windSpeed": {
+                "noaa": 2.75
+            },
+            "windWaveDirection": {
+                "noaa": 266.23
+            },
+            "windWaveHeight": {
+                "noaa": 1.26
+            },
+            "windWavePeriod": {
+                "noaa": 9.82
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.11
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.7
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.67
+            },
+            "swellDirection": {
+                "noaa": 278.99
+            },
+            "swellHeight": {
+                "noaa": 0.9
+            },
+            "swellPeriod": {
+                "noaa": 10.03
+            },
+            "time": "2020-09-03T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.33
+            },
+            "waveDirection": {
+                "noaa": 280.82
+            },
+            "waveHeight": {
+                "noaa": 0.9
+            },
+            "wavePeriod": {
+                "noaa": 10.03
+            },
+            "windSpeed": {
+                "noaa": 2.83
+            },
+            "windWaveDirection": {
+                "noaa": 264.77
+            },
+            "windWaveHeight": {
+                "noaa": 1.38
+            },
+            "windWavePeriod": {
+                "noaa": 9.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.25
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.57
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.69
+            },
+            "swellDirection": {
+                "noaa": 278.99
+            },
+            "swellHeight": {
+                "noaa": 0.91
+            },
+            "swellPeriod": {
+                "noaa": 9.99
+            },
+            "time": "2020-09-03T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.47
+            },
+            "waveDirection": {
+                "noaa": 280.85
+            },
+            "waveHeight": {
+                "noaa": 0.91
+            },
+            "wavePeriod": {
+                "noaa": 9.99
+            },
+            "windSpeed": {
+                "noaa": 2.92
+            },
+            "windWaveDirection": {
+                "noaa": 263.32
+            },
+            "windWaveHeight": {
+                "noaa": 1.5
+            },
+            "windWavePeriod": {
+                "noaa": 9.91
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.39
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.44
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.71
+            },
+            "swellDirection": {
+                "noaa": 279.0
+            },
+            "swellHeight": {
+                "noaa": 0.92
+            },
+            "swellPeriod": {
+                "noaa": 9.95
+            },
+            "time": "2020-09-03T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.61
+            },
+            "waveDirection": {
+                "noaa": 280.89
+            },
+            "waveHeight": {
+                "noaa": 0.92
+            },
+            "wavePeriod": {
+                "noaa": 9.95
+            },
+            "windSpeed": {
+                "noaa": 3.0
+            },
+            "windWaveDirection": {
+                "noaa": 261.86
+            },
+            "windWaveHeight": {
+                "noaa": 1.62
+            },
+            "windWavePeriod": {
+                "noaa": 9.95
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.37
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.31
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.73
+            },
+            "swellDirection": {
+                "noaa": 279.13
+            },
+            "swellHeight": {
+                "noaa": 0.93
+            },
+            "swellPeriod": {
+                "noaa": 9.93
+            },
+            "time": "2020-09-03T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.46
+            },
+            "waveDirection": {
+                "noaa": 281.08
+            },
+            "waveHeight": {
+                "noaa": 0.93
+            },
+            "wavePeriod": {
+                "noaa": 9.93
+            },
+            "windSpeed": {
+                "noaa": 2.64
+            },
+            "windWaveDirection": {
+                "noaa": 262.7
+            },
+            "windWaveHeight": {
+                "noaa": 1.57
+            },
+            "windWavePeriod": {
+                "noaa": 9.64
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.35
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.18
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.75
+            },
+            "swellDirection": {
+                "noaa": 279.26
+            },
+            "swellHeight": {
+                "noaa": 0.93
+            },
+            "swellPeriod": {
+                "noaa": 9.92
+            },
+            "time": "2020-09-03T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.3
+            },
+            "waveDirection": {
+                "noaa": 281.28
+            },
+            "waveHeight": {
+                "noaa": 0.93
+            },
+            "wavePeriod": {
+                "noaa": 9.92
+            },
+            "windSpeed": {
+                "noaa": 2.28
+            },
+            "windWaveDirection": {
+                "noaa": 263.54
+            },
+            "windWaveHeight": {
+                "noaa": 1.51
+            },
+            "windWavePeriod": {
+                "noaa": 9.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.34
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.05
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.77
+            },
+            "swellDirection": {
+                "noaa": 279.39
+            },
+            "swellHeight": {
+                "noaa": 0.94
+            },
+            "swellPeriod": {
+                "noaa": 9.9
+            },
+            "time": "2020-09-03T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.15
+            },
+            "waveDirection": {
+                "noaa": 281.47
+            },
+            "waveHeight": {
+                "noaa": 0.94
+            },
+            "wavePeriod": {
+                "noaa": 9.9
+            },
+            "windSpeed": {
+                "noaa": 1.92
+            },
+            "windWaveDirection": {
+                "noaa": 264.39
+            },
+            "windWaveHeight": {
+                "noaa": 1.46
+            },
+            "windWavePeriod": {
+                "noaa": 9.02
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.22
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.92
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.79
+            },
+            "swellDirection": {
+                "noaa": 279.45
+            },
+            "swellHeight": {
+                "noaa": 0.95
+            },
+            "swellPeriod": {
+                "noaa": 9.9
+            },
+            "time": "2020-09-03T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.89
+            },
+            "waveDirection": {
+                "noaa": 281.57
+            },
+            "waveHeight": {
+                "noaa": 0.95
+            },
+            "wavePeriod": {
+                "noaa": 9.9
+            },
+            "windSpeed": {
+                "noaa": 1.9
+            },
+            "windWaveDirection": {
+                "noaa": 265.23
+            },
+            "windWaveHeight": {
+                "noaa": 1.41
+            },
+            "windWavePeriod": {
+                "noaa": 8.71
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.11
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.79
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.81
+            },
+            "swellDirection": {
+                "noaa": 279.51
+            },
+            "swellHeight": {
+                "noaa": 0.95
+            },
+            "swellPeriod": {
+                "noaa": 9.89
+            },
+            "time": "2020-09-03T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.63
+            },
+            "waveDirection": {
+                "noaa": 281.67
+            },
+            "waveHeight": {
+                "noaa": 0.95
+            },
+            "wavePeriod": {
+                "noaa": 9.89
+            },
+            "windSpeed": {
+                "noaa": 1.89
+            },
+            "windWaveDirection": {
+                "noaa": 266.07
+            },
+            "windWaveHeight": {
+                "noaa": 1.36
+            },
+            "windWavePeriod": {
+                "noaa": 8.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.0
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.66
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.83
+            },
+            "swellDirection": {
+                "noaa": 279.57
+            },
+            "swellHeight": {
+                "noaa": 0.96
+            },
+            "swellPeriod": {
+                "noaa": 9.89
+            },
+            "time": "2020-09-03T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.36
+            },
+            "waveDirection": {
+                "noaa": 281.77
+            },
+            "waveHeight": {
+                "noaa": 0.96
+            },
+            "wavePeriod": {
+                "noaa": 9.89
+            },
+            "windSpeed": {
+                "noaa": 1.87
+            },
+            "windWaveDirection": {
+                "noaa": 266.91
+            },
+            "windWaveHeight": {
+                "noaa": 1.3
+            },
+            "windWavePeriod": {
+                "noaa": 8.08
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.92
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.53
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.85
+            },
+            "swellDirection": {
+                "noaa": 279.55
+            },
+            "swellHeight": {
+                "noaa": 0.97
+            },
+            "swellPeriod": {
+                "noaa": 9.9
+            },
+            "time": "2020-09-03T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 281.75
+            },
+            "waveHeight": {
+                "noaa": 0.97
+            },
+            "wavePeriod": {
+                "noaa": 9.9
+            },
+            "windSpeed": {
+                "noaa": 1.94
+            },
+            "windWaveDirection": {
+                "noaa": 267.75
+            },
+            "windWaveHeight": {
+                "noaa": 1.25
+            },
+            "windWavePeriod": {
+                "noaa": 7.77
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.84
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.4
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.87
+            },
+            "swellDirection": {
+                "noaa": 279.53
+            },
+            "swellHeight": {
+                "noaa": 0.98
+            },
+            "swellPeriod": {
+                "noaa": 9.91
+            },
+            "time": "2020-09-03T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.34
+            },
+            "waveDirection": {
+                "noaa": 281.73
+            },
+            "waveHeight": {
+                "noaa": 0.98
+            },
+            "wavePeriod": {
+                "noaa": 9.91
+            },
+            "windSpeed": {
+                "noaa": 2.02
+            },
+            "windWaveDirection": {
+                "noaa": 268.6
+            },
+            "windWaveHeight": {
+                "noaa": 1.2
+            },
+            "windWavePeriod": {
+                "noaa": 7.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.76
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.27
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.89
+            },
+            "swellDirection": {
+                "noaa": 279.51
+            },
+            "swellHeight": {
+                "noaa": 0.99
+            },
+            "swellPeriod": {
+                "noaa": 9.92
+            },
+            "time": "2020-09-04T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.33
+            },
+            "waveDirection": {
+                "noaa": 281.71
+            },
+            "waveHeight": {
+                "noaa": 0.99
+            },
+            "wavePeriod": {
+                "noaa": 9.92
+            },
+            "windSpeed": {
+                "noaa": 2.09
+            },
+            "windWaveDirection": {
+                "noaa": 269.44
+            },
+            "windWaveHeight": {
+                "noaa": 1.14
+            },
+            "windWavePeriod": {
+                "noaa": 7.15
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.65
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.14
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.91
+            },
+            "swellDirection": {
+                "noaa": 279.53
+            },
+            "swellHeight": {
+                "noaa": 1.0
+            },
+            "swellPeriod": {
+                "noaa": 10.0
+            },
+            "time": "2020-09-04T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.34
+            },
+            "waveDirection": {
+                "noaa": 281.54
+            },
+            "waveHeight": {
+                "noaa": 1.0
+            },
+            "wavePeriod": {
+                "noaa": 10.0
+            },
+            "windSpeed": {
+                "noaa": 1.86
+            },
+            "windWaveDirection": {
+                "noaa": 270.28
+            },
+            "windWaveHeight": {
+                "noaa": 1.09
+            },
+            "windWavePeriod": {
+                "noaa": 6.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.01
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.93
+            },
+            "swellDirection": {
+                "noaa": 279.56
+            },
+            "swellHeight": {
+                "noaa": 1.02
+            },
+            "swellPeriod": {
+                "noaa": 10.08
+            },
+            "time": "2020-09-04T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.34
+            },
+            "waveDirection": {
+                "noaa": 281.36
+            },
+            "waveHeight": {
+                "noaa": 1.02
+            },
+            "wavePeriod": {
+                "noaa": 10.08
+            },
+            "windSpeed": {
+                "noaa": 1.64
+            },
+            "windWaveDirection": {
+                "noaa": 271.12
+            },
+            "windWaveHeight": {
+                "noaa": 1.04
+            },
+            "windWavePeriod": {
+                "noaa": 6.53
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.44
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.88
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.15
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.95
+            },
+            "swellDirection": {
+                "noaa": 279.58
+            },
+            "swellHeight": {
+                "noaa": 1.03
+            },
+            "swellPeriod": {
+                "noaa": 10.16
+            },
+            "time": "2020-09-04T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 281.19
+            },
+            "waveHeight": {
+                "noaa": 1.03
+            },
+            "wavePeriod": {
+                "noaa": 10.16
+            },
+            "windSpeed": {
+                "noaa": 1.41
+            },
+            "windWaveDirection": {
+                "noaa": 271.97
+            },
+            "windWaveHeight": {
+                "noaa": 0.99
+            },
+            "windWavePeriod": {
+                "noaa": 6.22
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.3
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.76
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.96
+            },
+            "swellDirection": {
+                "noaa": 279.59
+            },
+            "swellHeight": {
+                "noaa": 1.04
+            },
+            "swellPeriod": {
+                "noaa": 10.41
+            },
+            "time": "2020-09-04T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.33
+            },
+            "waveDirection": {
+                "noaa": 281.24
+            },
+            "waveHeight": {
+                "noaa": 1.04
+            },
+            "wavePeriod": {
+                "noaa": 10.41
+            },
+            "windSpeed": {
+                "noaa": 1.43
+            },
+            "windWaveDirection": {
+                "noaa": 272.81
+            },
+            "windWaveHeight": {
+                "noaa": 0.93
+            },
+            "windWavePeriod": {
+                "noaa": 5.9
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.17
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.63
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.98
+            },
+            "swellDirection": {
+                "noaa": 279.6
+            },
+            "swellHeight": {
+                "noaa": 1.06
+            },
+            "swellPeriod": {
+                "noaa": 10.65
+            },
+            "time": "2020-09-04T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.31
+            },
+            "waveDirection": {
+                "noaa": 281.29
+            },
+            "waveHeight": {
+                "noaa": 1.06
+            },
+            "wavePeriod": {
+                "noaa": 10.65
+            },
+            "windSpeed": {
+                "noaa": 1.45
+            },
+            "windWaveDirection": {
+                "noaa": 273.65
+            },
+            "windWaveHeight": {
+                "noaa": 0.88
+            },
+            "windWavePeriod": {
+                "noaa": 5.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.03
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.5
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.0
+            },
+            "swellDirection": {
+                "noaa": 279.61
+            },
+            "swellHeight": {
+                "noaa": 1.07
+            },
+            "swellPeriod": {
+                "noaa": 10.9
+            },
+            "time": "2020-09-04T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.3
+            },
+            "waveDirection": {
+                "noaa": 281.34
+            },
+            "waveHeight": {
+                "noaa": 1.07
+            },
+            "wavePeriod": {
+                "noaa": 10.9
+            },
+            "windSpeed": {
+                "noaa": 1.47
+            },
+            "windWaveDirection": {
+                "noaa": 274.49
+            },
+            "windWaveHeight": {
+                "noaa": 0.83
+            },
+            "windWavePeriod": {
+                "noaa": 5.28
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.04
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.37
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.02
+            },
+            "swellDirection": {
+                "noaa": 279.57
+            },
+            "swellHeight": {
+                "noaa": 1.08
+            },
+            "swellPeriod": {
+                "noaa": 10.99
+            },
+            "time": "2020-09-04T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.38
+            },
+            "waveDirection": {
+                "noaa": 281.48
+            },
+            "waveHeight": {
+                "noaa": 1.08
+            },
+            "wavePeriod": {
+                "noaa": 10.99
+            },
+            "windSpeed": {
+                "noaa": 1.33
+            },
+            "windWaveDirection": {
+                "noaa": 275.33
+            },
+            "windWaveHeight": {
+                "noaa": 0.77
+            },
+            "windWavePeriod": {
+                "noaa": 4.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.04
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.24
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.04
+            },
+            "swellDirection": {
+                "noaa": 279.53
+            },
+            "swellHeight": {
+                "noaa": 1.09
+            },
+            "swellPeriod": {
+                "noaa": 11.07
+            },
+            "time": "2020-09-04T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.46
+            },
+            "waveDirection": {
+                "noaa": 281.61
+            },
+            "waveHeight": {
+                "noaa": 1.09
+            },
+            "wavePeriod": {
+                "noaa": 11.07
+            },
+            "windSpeed": {
+                "noaa": 1.2
+            },
+            "windWaveDirection": {
+                "noaa": 276.18
+            },
+            "windWaveHeight": {
+                "noaa": 0.72
+            },
+            "windWavePeriod": {
+                "noaa": 4.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.05
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.11
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.06
+            },
+            "swellDirection": {
+                "noaa": 279.49
+            },
+            "swellHeight": {
+                "noaa": 1.1
+            },
+            "swellPeriod": {
+                "noaa": 11.16
+            },
+            "time": "2020-09-04T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.54
+            },
+            "waveDirection": {
+                "noaa": 281.75
+            },
+            "waveHeight": {
+                "noaa": 1.1
+            },
+            "wavePeriod": {
+                "noaa": 11.16
+            },
+            "windSpeed": {
+                "noaa": 1.06
+            },
+            "windWaveDirection": {
+                "noaa": 277.02
+            },
+            "windWaveHeight": {
+                "noaa": 0.67
+            },
+            "windWavePeriod": {
+                "noaa": 4.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.98
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.08
+            },
+            "swellDirection": {
+                "noaa": 279.39
+            },
+            "swellHeight": {
+                "noaa": 1.11
+            },
+            "swellPeriod": {
+                "noaa": 11.21
+            },
+            "time": "2020-09-04T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.85
+            },
+            "waveDirection": {
+                "noaa": 281.69
+            },
+            "waveHeight": {
+                "noaa": 1.11
+            },
+            "wavePeriod": {
+                "noaa": 11.21
+            },
+            "windSpeed": {
+                "noaa": 2.03
+            },
+            "windWaveDirection": {
+                "noaa": 277.86
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 4.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.05
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.85
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.1
+            },
+            "swellDirection": {
+                "noaa": 279.29
+            },
+            "swellHeight": {
+                "noaa": 1.11
+            },
+            "swellPeriod": {
+                "noaa": 11.26
+            },
+            "time": "2020-09-04T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.15
+            },
+            "waveDirection": {
+                "noaa": 281.64
+            },
+            "waveHeight": {
+                "noaa": 1.11
+            },
+            "wavePeriod": {
+                "noaa": 11.26
+            },
+            "windSpeed": {
+                "noaa": 3.0
+            },
+            "windWaveDirection": {
+                "noaa": 278.7
+            },
+            "windWaveHeight": {
+                "noaa": 0.56
+            },
+            "windWavePeriod": {
+                "noaa": 3.73
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.72
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.12
+            },
+            "swellDirection": {
+                "noaa": 279.19
+            },
+            "swellHeight": {
+                "noaa": 1.12
+            },
+            "swellPeriod": {
+                "noaa": 11.31
+            },
+            "time": "2020-09-04T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.45
+            },
+            "waveDirection": {
+                "noaa": 281.58
+            },
+            "waveHeight": {
+                "noaa": 1.12
+            },
+            "wavePeriod": {
+                "noaa": 11.31
+            },
+            "windSpeed": {
+                "noaa": 3.97
+            },
+            "windWaveDirection": {
+                "noaa": 279.54
+            },
+            "windWaveHeight": {
+                "noaa": 0.51
+            },
+            "windWavePeriod": {
+                "noaa": 3.41
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.48
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.59
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.14
+            },
+            "swellDirection": {
+                "noaa": 279.14
+            },
+            "swellHeight": {
+                "noaa": 1.12
+            },
+            "swellPeriod": {
+                "noaa": 11.39
+            },
+            "time": "2020-09-04T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.32
+            },
+            "waveDirection": {
+                "noaa": 280.61
+            },
+            "waveHeight": {
+                "noaa": 1.14
+            },
+            "wavePeriod": {
+                "noaa": 11.39
+            },
+            "windSpeed": {
+                "noaa": 4.97
+            },
+            "windWaveDirection": {
+                "noaa": 280.39
+            },
+            "windWaveHeight": {
+                "noaa": 0.46
+            },
+            "windWavePeriod": {
+                "noaa": 3.1
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.42
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.46
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.16
+            },
+            "swellDirection": {
+                "noaa": 279.1
+            },
+            "swellHeight": {
+                "noaa": 1.13
+            },
+            "swellPeriod": {
+                "noaa": 11.48
+            },
+            "time": "2020-09-04T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.19
+            },
+            "waveDirection": {
+                "noaa": 279.63
+            },
+            "waveHeight": {
+                "noaa": 1.17
+            },
+            "wavePeriod": {
+                "noaa": 11.48
+            },
+            "windSpeed": {
+                "noaa": 5.97
+            },
+            "windWaveDirection": {
+                "noaa": 281.23
+            },
+            "windWaveHeight": {
+                "noaa": 0.4
+            },
+            "windWavePeriod": {
+                "noaa": 2.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.35
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.33
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.18
+            },
+            "swellDirection": {
+                "noaa": 279.05
+            },
+            "swellHeight": {
+                "noaa": 1.13
+            },
+            "swellPeriod": {
+                "noaa": 11.56
+            },
+            "time": "2020-09-04T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.06
+            },
+            "waveDirection": {
+                "noaa": 278.66
+            },
+            "waveHeight": {
+                "noaa": 1.19
+            },
+            "wavePeriod": {
+                "noaa": 11.56
+            },
+            "windSpeed": {
+                "noaa": 6.97
+            },
+            "windWaveDirection": {
+                "noaa": 282.07
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 2.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.2
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.2
+            },
+            "swellDirection": {
+                "noaa": 278.97
+            },
+            "swellHeight": {
+                "noaa": 1.13
+            },
+            "swellPeriod": {
+                "noaa": 11.61
+            },
+            "time": "2020-09-04T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.97
+            },
+            "waveDirection": {
+                "noaa": 278.66
+            },
+            "waveHeight": {
+                "noaa": 1.2
+            },
+            "wavePeriod": {
+                "noaa": 11.61
+            },
+            "windSpeed": {
+                "noaa": 6.97
+            },
+            "windWaveDirection": {
+                "noaa": 293.09
+            },
+            "windWaveHeight": {
+                "noaa": 0.39
+            },
+            "windWavePeriod": {
+                "noaa": 2.72
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.82
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.07
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.22
+            },
+            "swellDirection": {
+                "noaa": 278.9
+            },
+            "swellHeight": {
+                "noaa": 1.14
+            },
+            "swellPeriod": {
+                "noaa": 11.65
+            },
+            "time": "2020-09-04T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.87
+            },
+            "waveDirection": {
+                "noaa": 278.67
+            },
+            "waveHeight": {
+                "noaa": 1.22
+            },
+            "wavePeriod": {
+                "noaa": 11.65
+            },
+            "windSpeed": {
+                "noaa": 6.96
+            },
+            "windWaveDirection": {
+                "noaa": 304.12
+            },
+            "windWaveHeight": {
+                "noaa": 0.44
+            },
+            "windWavePeriod": {
+                "noaa": 2.95
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 19.05
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.94
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.24
+            },
+            "swellDirection": {
+                "noaa": 278.82
+            },
+            "swellHeight": {
+                "noaa": 1.14
+            },
+            "swellPeriod": {
+                "noaa": 11.7
+            },
+            "time": "2020-09-04T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.78
+            },
+            "waveDirection": {
+                "noaa": 278.67
+            },
+            "waveHeight": {
+                "noaa": 1.23
+            },
+            "wavePeriod": {
+                "noaa": 11.7
+            },
+            "windSpeed": {
+                "noaa": 6.96
+            },
+            "windWaveDirection": {
+                "noaa": 315.14
+            },
+            "windWaveHeight": {
+                "noaa": 0.48
+            },
+            "windWavePeriod": {
+                "noaa": 3.19
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.35
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.81
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.26
+            },
+            "swellDirection": {
+                "noaa": 278.94
+            },
+            "swellHeight": {
+                "noaa": 1.13
+            },
+            "swellPeriod": {
+                "noaa": 11.69
+            },
+            "time": "2020-09-04T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.68
+            },
+            "waveDirection": {
+                "noaa": 278.61
+            },
+            "waveHeight": {
+                "noaa": 1.24
+            },
+            "wavePeriod": {
+                "noaa": 11.69
+            },
+            "windSpeed": {
+                "noaa": 7.25
+            },
+            "windWaveDirection": {
+                "noaa": 322.82
+            },
+            "windWaveHeight": {
+                "noaa": 0.53
+            },
+            "windWavePeriod": {
+                "noaa": 3.27
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.65
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.68
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.28
+            },
+            "swellDirection": {
+                "noaa": 279.07
+            },
+            "swellHeight": {
+                "noaa": 1.11
+            },
+            "swellPeriod": {
+                "noaa": 11.68
+            },
+            "time": "2020-09-04T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.59
+            },
+            "waveDirection": {
+                "noaa": 278.56
+            },
+            "waveHeight": {
+                "noaa": 1.25
+            },
+            "wavePeriod": {
+                "noaa": 11.68
+            },
+            "windSpeed": {
+                "noaa": 7.53
+            },
+            "windWaveDirection": {
+                "noaa": 330.51
+            },
+            "windWaveHeight": {
+                "noaa": 0.57
+            },
+            "windWavePeriod": {
+                "noaa": 3.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.95
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.55
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.3
+            },
+            "swellDirection": {
+                "noaa": 279.19
+            },
+            "swellHeight": {
+                "noaa": 1.1
+            },
+            "swellPeriod": {
+                "noaa": 11.67
+            },
+            "time": "2020-09-04T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.49
+            },
+            "waveDirection": {
+                "noaa": 278.5
+            },
+            "waveHeight": {
+                "noaa": 1.26
+            },
+            "wavePeriod": {
+                "noaa": 11.67
+            },
+            "windSpeed": {
+                "noaa": 7.82
+            },
+            "windWaveDirection": {
+                "noaa": 338.19
+            },
+            "windWaveHeight": {
+                "noaa": 0.62
+            },
+            "windWavePeriod": {
+                "noaa": 3.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.27
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.42
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.32
+            },
+            "swellDirection": {
+                "noaa": 279.41
+            },
+            "swellHeight": {
+                "noaa": 1.09
+            },
+            "swellPeriod": {
+                "noaa": 11.63
+            },
+            "time": "2020-09-04T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.45
+            },
+            "waveDirection": {
+                "noaa": 278.44
+            },
+            "waveHeight": {
+                "noaa": 1.25
+            },
+            "wavePeriod": {
+                "noaa": 11.63
+            },
+            "windSpeed": {
+                "noaa": 7.57
+            },
+            "windWaveDirection": {
+                "noaa": 344.43
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 3.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.59
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.3
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.34
+            },
+            "swellDirection": {
+                "noaa": 279.63
+            },
+            "swellHeight": {
+                "noaa": 1.09
+            },
+            "swellPeriod": {
+                "noaa": 11.6
+            },
+            "time": "2020-09-04T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.41
+            },
+            "waveDirection": {
+                "noaa": 278.37
+            },
+            "waveHeight": {
+                "noaa": 1.24
+            },
+            "wavePeriod": {
+                "noaa": 11.6
+            },
+            "windSpeed": {
+                "noaa": 7.31
+            },
+            "windWaveDirection": {
+                "noaa": 350.67
+            },
+            "windWaveHeight": {
+                "noaa": 0.6
+            },
+            "windWavePeriod": {
+                "noaa": 3.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.91
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.17
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.36
+            },
+            "swellDirection": {
+                "noaa": 279.85
+            },
+            "swellHeight": {
+                "noaa": 1.08
+            },
+            "swellPeriod": {
+                "noaa": 11.56
+            },
+            "time": "2020-09-05T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.37
+            },
+            "waveDirection": {
+                "noaa": 278.31
+            },
+            "waveHeight": {
+                "noaa": 1.23
+            },
+            "wavePeriod": {
+                "noaa": 11.56
+            },
+            "windSpeed": {
+                "noaa": 7.06
+            },
+            "windWaveDirection": {
+                "noaa": 356.91
+            },
+            "windWaveHeight": {
+                "noaa": 0.59
+            },
+            "windWavePeriod": {
+                "noaa": 3.51
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.53
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.04
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.38
+            },
+            "swellDirection": {
+                "noaa": 280.04
+            },
+            "swellHeight": {
+                "noaa": 1.07
+            },
+            "swellPeriod": {
+                "noaa": 11.5
+            },
+            "time": "2020-09-05T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.32
+            },
+            "waveDirection": {
+                "noaa": 279.17
+            },
+            "waveHeight": {
+                "noaa": 1.21
+            },
+            "wavePeriod": {
+                "noaa": 11.5
+            },
+            "windSpeed": {
+                "noaa": 6.81
+            },
+            "windWaveDirection": {
+                "noaa": 358.35
+            },
+            "windWaveHeight": {
+                "noaa": 0.56
+            },
+            "windWavePeriod": {
+                "noaa": 3.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.15
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.91
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.4
+            },
+            "swellDirection": {
+                "noaa": 280.23
+            },
+            "swellHeight": {
+                "noaa": 1.05
+            },
+            "swellPeriod": {
+                "noaa": 11.43
+            },
+            "time": "2020-09-05T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.27
+            },
+            "waveDirection": {
+                "noaa": 280.03
+            },
+            "waveHeight": {
+                "noaa": 1.18
+            },
+            "wavePeriod": {
+                "noaa": 11.43
+            },
+            "windSpeed": {
+                "noaa": 6.56
+            },
+            "windWaveDirection": {
+                "noaa": 359.78
+            },
+            "windWaveHeight": {
+                "noaa": 0.54
+            },
+            "windWavePeriod": {
+                "noaa": 3.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.77
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.78
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.42
+            },
+            "swellDirection": {
+                "noaa": 280.42
+            },
+            "swellHeight": {
+                "noaa": 1.04
+            },
+            "swellPeriod": {
+                "noaa": 11.37
+            },
+            "time": "2020-09-05T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.22
+            },
+            "waveDirection": {
+                "noaa": 280.89
+            },
+            "waveHeight": {
+                "noaa": 1.16
+            },
+            "wavePeriod": {
+                "noaa": 11.37
+            },
+            "windSpeed": {
+                "noaa": 6.31
+            },
+            "windWaveDirection": {
+                "noaa": 1.22
+            },
+            "windWaveHeight": {
+                "noaa": 0.51
+            },
+            "windWavePeriod": {
+                "noaa": 3.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.64
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.65
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.44
+            },
+            "swellDirection": {
+                "noaa": 280.51
+            },
+            "swellHeight": {
+                "noaa": 1.03
+            },
+            "swellPeriod": {
+                "noaa": 11.31
+            },
+            "time": "2020-09-05T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.25
+            },
+            "waveDirection": {
+                "noaa": 280.81
+            },
+            "waveHeight": {
+                "noaa": 1.13
+            },
+            "wavePeriod": {
+                "noaa": 11.31
+            },
+            "windSpeed": {
+                "noaa": 5.73
+            },
+            "windWaveDirection": {
+                "noaa": 2.28
+            },
+            "windWaveHeight": {
+                "noaa": 0.47
+            },
+            "windWavePeriod": {
+                "noaa": 3.45
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.51
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.52
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.46
+            },
+            "swellDirection": {
+                "noaa": 280.61
+            },
+            "swellHeight": {
+                "noaa": 1.02
+            },
+            "swellPeriod": {
+                "noaa": 11.26
+            },
+            "time": "2020-09-05T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.28
+            },
+            "waveDirection": {
+                "noaa": 280.72
+            },
+            "waveHeight": {
+                "noaa": 1.11
+            },
+            "wavePeriod": {
+                "noaa": 11.26
+            },
+            "windSpeed": {
+                "noaa": 5.14
+            },
+            "windWaveDirection": {
+                "noaa": 3.34
+            },
+            "windWaveHeight": {
+                "noaa": 0.43
+            },
+            "windWavePeriod": {
+                "noaa": 3.45
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.38
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.39
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.48
+            },
+            "swellDirection": {
+                "noaa": 280.7
+            },
+            "swellHeight": {
+                "noaa": 1.01
+            },
+            "swellPeriod": {
+                "noaa": 11.2
+            },
+            "time": "2020-09-05T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.3
+            },
+            "waveDirection": {
+                "noaa": 280.64
+            },
+            "waveHeight": {
+                "noaa": 1.08
+            },
+            "wavePeriod": {
+                "noaa": 11.2
+            },
+            "windSpeed": {
+                "noaa": 4.56
+            },
+            "windWaveDirection": {
+                "noaa": 4.4
+            },
+            "windWaveHeight": {
+                "noaa": 0.39
+            },
+            "windWavePeriod": {
+                "noaa": 3.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.26
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.5
+            },
+            "swellDirection": {
+                "noaa": 282.03
+            },
+            "swellHeight": {
+                "noaa": 1.02
+            },
+            "swellPeriod": {
+                "noaa": 11.16
+            },
+            "time": "2020-09-05T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.29
+            },
+            "waveDirection": {
+                "noaa": 280.64
+            },
+            "waveHeight": {
+                "noaa": 1.06
+            },
+            "wavePeriod": {
+                "noaa": 11.16
+            },
+            "windSpeed": {
+                "noaa": 4.36
+            },
+            "windWaveDirection": {
+                "noaa": 7.11
+            },
+            "windWaveHeight": {
+                "noaa": 0.49
+            },
+            "windWavePeriod": {
+                "noaa": 3.55
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.78
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.13
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.52
+            },
+            "swellDirection": {
+                "noaa": 283.36
+            },
+            "swellHeight": {
+                "noaa": 1.02
+            },
+            "swellPeriod": {
+                "noaa": 11.13
+            },
+            "time": "2020-09-05T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.27
+            },
+            "waveDirection": {
+                "noaa": 280.63
+            },
+            "waveHeight": {
+                "noaa": 1.05
+            },
+            "wavePeriod": {
+                "noaa": 11.13
+            },
+            "windSpeed": {
+                "noaa": 4.17
+            },
+            "windWaveDirection": {
+                "noaa": 9.83
+            },
+            "windWaveHeight": {
+                "noaa": 0.59
+            },
+            "windWavePeriod": {
+                "noaa": 3.65
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.97
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.54
+            },
+            "swellDirection": {
+                "noaa": 284.69
+            },
+            "swellHeight": {
+                "noaa": 1.03
+            },
+            "swellPeriod": {
+                "noaa": 11.09
+            },
+            "time": "2020-09-05T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.26
+            },
+            "waveDirection": {
+                "noaa": 280.63
+            },
+            "waveHeight": {
+                "noaa": 1.03
+            },
+            "wavePeriod": {
+                "noaa": 11.09
+            },
+            "windSpeed": {
+                "noaa": 3.97
+            },
+            "windWaveDirection": {
+                "noaa": 12.54
+            },
+            "windWaveHeight": {
+                "noaa": 0.69
+            },
+            "windWavePeriod": {
+                "noaa": 3.76
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.5
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.13
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.54
+            },
+            "swellDirection": {
+                "noaa": 284.05
+            },
+            "swellHeight": {
+                "noaa": 1.02
+            },
+            "swellPeriod": {
+                "noaa": 11.06
+            },
+            "time": "2020-09-05T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.53
+            },
+            "waveDirection": {
+                "noaa": 280.67
+            },
+            "waveHeight": {
+                "noaa": 1.02
+            },
+            "wavePeriod": {
+                "noaa": 11.06
+            },
+            "windSpeed": {
+                "noaa": 3.78
+            },
+            "windWaveDirection": {
+                "noaa": 16.29
+            },
+            "windWaveHeight": {
+                "noaa": 0.6
+            },
+            "windWavePeriod": {
+                "noaa": 3.72
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.03
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.13
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.54
+            },
+            "swellDirection": {
+                "noaa": 283.42
+            },
+            "swellHeight": {
+                "noaa": 1.0
+            },
+            "swellPeriod": {
+                "noaa": 11.04
+            },
+            "time": "2020-09-05T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.81
+            },
+            "waveDirection": {
+                "noaa": 280.72
+            },
+            "waveHeight": {
+                "noaa": 1.0
+            },
+            "wavePeriod": {
+                "noaa": 11.04
+            },
+            "windSpeed": {
+                "noaa": 3.58
+            },
+            "windWaveDirection": {
+                "noaa": 20.05
+            },
+            "windWaveHeight": {
+                "noaa": 0.52
+            },
+            "windWavePeriod": {
+                "noaa": 3.69
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.56
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.12
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.54
+            },
+            "swellDirection": {
+                "noaa": 282.78
+            },
+            "swellHeight": {
+                "noaa": 0.99
+            },
+            "swellPeriod": {
+                "noaa": 11.01
+            },
+            "time": "2020-09-05T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.08
+            },
+            "waveDirection": {
+                "noaa": 280.76
+            },
+            "waveHeight": {
+                "noaa": 0.99
+            },
+            "wavePeriod": {
+                "noaa": 11.01
+            },
+            "windSpeed": {
+                "noaa": 3.39
+            },
+            "windWaveDirection": {
+                "noaa": 23.8
+            },
+            "windWaveHeight": {
+                "noaa": 0.43
+            },
+            "windWavePeriod": {
+                "noaa": 3.65
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.78
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.14
+            },
+            "secondarySwellPeriod": {
+                "noaa": 13.25
+            },
+            "swellDirection": {
+                "noaa": 282.43
+            },
+            "swellHeight": {
+                "noaa": 0.98
+            },
+            "swellPeriod": {
+                "noaa": 10.99
+            },
+            "time": "2020-09-05T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.95
+            },
+            "waveDirection": {
+                "noaa": 280.8
+            },
+            "waveHeight": {
+                "noaa": 1.0
+            },
+            "wavePeriod": {
+                "noaa": 10.99
+            },
+            "windSpeed": {
+                "noaa": 4.51
+            },
+            "windWaveDirection": {
+                "noaa": 351.9
+            },
+            "windWaveHeight": {
+                "noaa": 0.4
+            },
+            "windWavePeriod": {
+                "noaa": 3.26
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.0
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.16
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.95
+            },
+            "swellDirection": {
+                "noaa": 282.07
+            },
+            "swellHeight": {
+                "noaa": 0.97
+            },
+            "swellPeriod": {
+                "noaa": 10.97
+            },
+            "time": "2020-09-05T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.82
+            },
+            "waveDirection": {
+                "noaa": 280.83
+            },
+            "waveHeight": {
+                "noaa": 1.01
+            },
+            "wavePeriod": {
+                "noaa": 10.97
+            },
+            "windSpeed": {
+                "noaa": 5.64
+            },
+            "windWaveDirection": {
+                "noaa": 319.99
+            },
+            "windWaveHeight": {
+                "noaa": 0.38
+            },
+            "windWavePeriod": {
+                "noaa": 2.87
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.21
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.0
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.18
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.66
+            },
+            "swellDirection": {
+                "noaa": 281.72
+            },
+            "swellHeight": {
+                "noaa": 0.96
+            },
+            "swellPeriod": {
+                "noaa": 10.95
+            },
+            "time": "2020-09-05T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.69
+            },
+            "waveDirection": {
+                "noaa": 280.87
+            },
+            "waveHeight": {
+                "noaa": 1.02
+            },
+            "wavePeriod": {
+                "noaa": 10.95
+            },
+            "windSpeed": {
+                "noaa": 6.76
+            },
+            "windWaveDirection": {
+                "noaa": 288.09
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 2.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.86
+            },
+            "secondarySwellDirection": {
+                "noaa": 285.86
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.19
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.4
+            },
+            "swellDirection": {
+                "noaa": 281.85
+            },
+            "swellHeight": {
+                "noaa": 0.95
+            },
+            "swellPeriod": {
+                "noaa": 10.95
+            },
+            "time": "2020-09-05T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.61
+            },
+            "waveDirection": {
+                "noaa": 280.93
+            },
+            "waveHeight": {
+                "noaa": 1.04
+            },
+            "wavePeriod": {
+                "noaa": 10.95
+            },
+            "windSpeed": {
+                "noaa": 6.59
+            },
+            "windWaveDirection": {
+                "noaa": 290.58
+            },
+            "windWaveHeight": {
+                "noaa": 0.42
+            },
+            "windWavePeriod": {
+                "noaa": 2.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.5
+            },
+            "secondarySwellDirection": {
+                "noaa": 286.73
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.19
+            },
+            "secondarySwellPeriod": {
+                "noaa": 12.14
+            },
+            "swellDirection": {
+                "noaa": 281.99
+            },
+            "swellHeight": {
+                "noaa": 0.94
+            },
+            "swellPeriod": {
+                "noaa": 10.94
+            },
+            "time": "2020-09-05T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.53
+            },
+            "waveDirection": {
+                "noaa": 280.98
+            },
+            "waveHeight": {
+                "noaa": 1.07
+            },
+            "wavePeriod": {
+                "noaa": 10.94
+            },
+            "windSpeed": {
+                "noaa": 6.42
+            },
+            "windWaveDirection": {
+                "noaa": 293.06
+            },
+            "windWaveHeight": {
+                "noaa": 0.5
+            },
+            "windWavePeriod": {
+                "noaa": 3.4
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.15
+            },
+            "secondarySwellDirection": {
+                "noaa": 287.59
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.2
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.88
+            },
+            "swellDirection": {
+                "noaa": 282.12
+            },
+            "swellHeight": {
+                "noaa": 0.93
+            },
+            "swellPeriod": {
+                "noaa": 10.94
+            },
+            "time": "2020-09-05T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.44
+            },
+            "waveDirection": {
+                "noaa": 281.04
+            },
+            "waveHeight": {
+                "noaa": 1.09
+            },
+            "wavePeriod": {
+                "noaa": 10.94
+            },
+            "windSpeed": {
+                "noaa": 6.25
+            },
+            "windWaveDirection": {
+                "noaa": 295.55
+            },
+            "windWaveHeight": {
+                "noaa": 0.57
+            },
+            "windWavePeriod": {
+                "noaa": 3.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.2
+            },
+            "secondarySwellDirection": {
+                "noaa": 288.46
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.21
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.62
+            },
+            "swellDirection": {
+                "noaa": 282.25
+            },
+            "swellHeight": {
+                "noaa": 0.92
+            },
+            "swellPeriod": {
+                "noaa": 10.94
+            },
+            "time": "2020-09-05T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.41
+            },
+            "waveDirection": {
+                "noaa": 281.22
+            },
+            "waveHeight": {
+                "noaa": 1.1
+            },
+            "wavePeriod": {
+                "noaa": 10.94
+            },
+            "windSpeed": {
+                "noaa": 6.85
+            },
+            "windWaveDirection": {
+                "noaa": 303.74
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 4.12
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.25
+            },
+            "secondarySwellDirection": {
+                "noaa": 289.32
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.36
+            },
+            "swellDirection": {
+                "noaa": 282.39
+            },
+            "swellHeight": {
+                "noaa": 0.9
+            },
+            "swellPeriod": {
+                "noaa": 10.93
+            },
+            "time": "2020-09-05T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.38
+            },
+            "waveDirection": {
+                "noaa": 281.41
+            },
+            "waveHeight": {
+                "noaa": 1.12
+            },
+            "wavePeriod": {
+                "noaa": 10.93
+            },
+            "windSpeed": {
+                "noaa": 7.46
+            },
+            "windWaveDirection": {
+                "noaa": 311.93
+            },
+            "windWaveHeight": {
+                "noaa": 0.66
+            },
+            "windWavePeriod": {
+                "noaa": 4.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.3
+            },
+            "secondarySwellDirection": {
+                "noaa": 290.19
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.22
+            },
+            "secondarySwellPeriod": {
+                "noaa": 11.1
+            },
+            "swellDirection": {
+                "noaa": 282.52
+            },
+            "swellHeight": {
+                "noaa": 0.89
+            },
+            "swellPeriod": {
+                "noaa": 10.93
+            },
+            "time": "2020-09-05T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 281.59
+            },
+            "waveHeight": {
+                "noaa": 1.13
+            },
+            "wavePeriod": {
+                "noaa": 10.93
+            },
+            "windSpeed": {
+                "noaa": 8.06
+            },
+            "windWaveDirection": {
+                "noaa": 320.12
+            },
+            "windWaveHeight": {
+                "noaa": 0.7
+            },
+            "windWavePeriod": {
+                "noaa": 4.63
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.94
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.05
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.23
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.84
+            },
+            "swellDirection": {
+                "noaa": 284.37
+            },
+            "swellHeight": {
+                "noaa": 0.91
+            },
+            "swellPeriod": {
+                "noaa": 10.9
+            },
+            "time": "2020-09-05T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.31
+            },
+            "waveDirection": {
+                "noaa": 281.97
+            },
+            "waveHeight": {
+                "noaa": 1.1
+            },
+            "wavePeriod": {
+                "noaa": 10.9
+            },
+            "windSpeed": {
+                "noaa": 7.33
+            },
+            "windWaveDirection": {
+                "noaa": 343.82
+            },
+            "windWaveHeight": {
+                "noaa": 0.59
+            },
+            "windWavePeriod": {
+                "noaa": 4.07
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.58
+            },
+            "secondarySwellDirection": {
+                "noaa": 291.91
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.24
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.58
+            },
+            "swellDirection": {
+                "noaa": 286.22
+            },
+            "swellHeight": {
+                "noaa": 0.94
+            },
+            "swellPeriod": {
+                "noaa": 10.87
+            },
+            "time": "2020-09-05T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.27
+            },
+            "waveDirection": {
+                "noaa": 282.35
+            },
+            "waveHeight": {
+                "noaa": 1.07
+            },
+            "wavePeriod": {
+                "noaa": 10.87
+            },
+            "windSpeed": {
+                "noaa": 6.59
+            },
+            "windWaveDirection": {
+                "noaa": 7.51
+            },
+            "windWaveHeight": {
+                "noaa": 0.49
+            },
+            "windWavePeriod": {
+                "noaa": 3.5
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.22
+            },
+            "secondarySwellDirection": {
+                "noaa": 292.78
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.25
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.32
+            },
+            "swellDirection": {
+                "noaa": 288.07
+            },
+            "swellHeight": {
+                "noaa": 0.96
+            },
+            "swellPeriod": {
+                "noaa": 10.84
+            },
+            "time": "2020-09-06T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.23
+            },
+            "waveDirection": {
+                "noaa": 282.73
+            },
+            "waveHeight": {
+                "noaa": 1.04
+            },
+            "wavePeriod": {
+                "noaa": 10.84
+            },
+            "windSpeed": {
+                "noaa": 5.86
+            },
+            "windWaveDirection": {
+                "noaa": 31.21
+            },
+            "windWaveHeight": {
+                "noaa": 0.38
+            },
+            "windWavePeriod": {
+                "noaa": 2.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.95
+            },
+            "secondarySwellDirection": {
+                "noaa": 293.64
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.25
+            },
+            "secondarySwellPeriod": {
+                "noaa": 10.06
+            },
+            "swellDirection": {
+                "noaa": 289.34
+            },
+            "swellHeight": {
+                "noaa": 0.95
+            },
+            "swellPeriod": {
+                "noaa": 10.78
+            },
+            "time": "2020-09-06T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.2
+            },
+            "waveDirection": {
+                "noaa": 282.78
+            },
+            "waveHeight": {
+                "noaa": 1.0
+            },
+            "wavePeriod": {
+                "noaa": 10.78
+            },
+            "windSpeed": {
+                "noaa": 5.4
+            },
+            "windWaveDirection": {
+                "noaa": 30.52
+            },
+            "windWaveHeight": {
+                "noaa": 0.36
+            },
+            "windWavePeriod": {
+                "noaa": 2.96
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.68
+            },
+            "secondarySwellDirection": {
+                "noaa": 294.51
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.26
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.8
+            },
+            "swellDirection": {
+                "noaa": 290.61
+            },
+            "swellHeight": {
+                "noaa": 0.93
+            },
+            "swellPeriod": {
+                "noaa": 10.71
+            },
+            "time": "2020-09-06T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.18
+            },
+            "waveDirection": {
+                "noaa": 282.83
+            },
+            "waveHeight": {
+                "noaa": 0.96
+            },
+            "wavePeriod": {
+                "noaa": 10.71
+            },
+            "windSpeed": {
+                "noaa": 4.95
+            },
+            "windWaveDirection": {
+                "noaa": 29.82
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 2.98
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.41
+            },
+            "secondarySwellDirection": {
+                "noaa": 295.37
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.27
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.54
+            },
+            "swellDirection": {
+                "noaa": 291.88
+            },
+            "swellHeight": {
+                "noaa": 0.92
+            },
+            "swellPeriod": {
+                "noaa": 10.65
+            },
+            "time": "2020-09-06T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 282.88
+            },
+            "waveHeight": {
+                "noaa": 0.92
+            },
+            "wavePeriod": {
+                "noaa": 10.65
+            },
+            "windSpeed": {
+                "noaa": 4.49
+            },
+            "windWaveDirection": {
+                "noaa": 29.13
+            },
+            "windWaveHeight": {
+                "noaa": 0.33
+            },
+            "windWavePeriod": {
+                "noaa": 3.0
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.27
+            },
+            "secondarySwellDirection": {
+                "noaa": 296.24
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.27
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.28
+            },
+            "swellDirection": {
+                "noaa": 290.7
+            },
+            "swellHeight": {
+                "noaa": 0.89
+            },
+            "swellPeriod": {
+                "noaa": 10.58
+            },
+            "time": "2020-09-06T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 282.91
+            },
+            "waveHeight": {
+                "noaa": 0.89
+            },
+            "wavePeriod": {
+                "noaa": 10.58
+            },
+            "windSpeed": {
+                "noaa": 4.34
+            },
+            "windWaveDirection": {
+                "noaa": 25.2
+            },
+            "windWaveHeight": {
+                "noaa": 0.32
+            },
+            "windWavePeriod": {
+                "noaa": 2.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.13
+            },
+            "secondarySwellDirection": {
+                "noaa": 297.1
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.28
+            },
+            "secondarySwellPeriod": {
+                "noaa": 9.02
+            },
+            "swellDirection": {
+                "noaa": 289.53
+            },
+            "swellHeight": {
+                "noaa": 0.86
+            },
+            "swellPeriod": {
+                "noaa": 10.5
+            },
+            "time": "2020-09-06T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 282.94
+            },
+            "waveHeight": {
+                "noaa": 0.86
+            },
+            "wavePeriod": {
+                "noaa": 10.5
+            },
+            "windSpeed": {
+                "noaa": 4.19
+            },
+            "windWaveDirection": {
+                "noaa": 21.27
+            },
+            "windWaveHeight": {
+                "noaa": 0.31
+            },
+            "windWavePeriod": {
+                "noaa": 2.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.99
+            },
+            "secondarySwellDirection": {
+                "noaa": 297.96
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.29
+            },
+            "secondarySwellPeriod": {
+                "noaa": 8.76
+            },
+            "swellDirection": {
+                "noaa": 288.35
+            },
+            "swellHeight": {
+                "noaa": 0.83
+            },
+            "swellPeriod": {
+                "noaa": 10.43
+            },
+            "time": "2020-09-06T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 282.97
+            },
+            "waveHeight": {
+                "noaa": 0.83
+            },
+            "wavePeriod": {
+                "noaa": 10.43
+            },
+            "windSpeed": {
+                "noaa": 4.04
+            },
+            "windWaveDirection": {
+                "noaa": 17.34
+            },
+            "windWaveHeight": {
+                "noaa": 0.3
+            },
+            "windWavePeriod": {
+                "noaa": 2.92
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.18
+            },
+            "secondarySwellDirection": {
+                "noaa": 298.83
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.3
+            },
+            "secondarySwellPeriod": {
+                "noaa": 8.5
+            },
+            "swellDirection": {
+                "noaa": 287.79
+            },
+            "swellHeight": {
+                "noaa": 0.81
+            },
+            "swellPeriod": {
+                "noaa": 10.39
+            },
+            "time": "2020-09-06T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 283.04
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 10.39
+            },
+            "windSpeed": {
+                "noaa": 4.07
+            },
+            "windWaveDirection": {
+                "noaa": 13.41
+            },
+            "windWaveHeight": {
+                "noaa": 0.29
+            },
+            "windWavePeriod": {
+                "noaa": 2.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.36
+            },
+            "secondarySwellDirection": {
+                "noaa": 299.69
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.3
+            },
+            "secondarySwellPeriod": {
+                "noaa": 8.24
+            },
+            "swellDirection": {
+                "noaa": 287.22
+            },
+            "swellHeight": {
+                "noaa": 0.79
+            },
+            "swellPeriod": {
+                "noaa": 10.34
+            },
+            "time": "2020-09-06T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 283.11
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 10.34
+            },
+            "windSpeed": {
+                "noaa": 4.11
+            },
+            "windWaveDirection": {
+                "noaa": 9.48
+            },
+            "windWaveHeight": {
+                "noaa": 0.28
+            },
+            "windWavePeriod": {
+                "noaa": 2.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 300.56
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.31
+            },
+            "secondarySwellPeriod": {
+                "noaa": 7.98
+            },
+            "swellDirection": {
+                "noaa": 286.66
+            },
+            "swellHeight": {
+                "noaa": 0.77
+            },
+            "swellPeriod": {
+                "noaa": 10.3
+            },
+            "time": "2020-09-06T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.15
+            },
+            "waveDirection": {
+                "noaa": 283.18
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 10.3
+            },
+            "windSpeed": {
+                "noaa": 4.14
+            },
+            "windWaveDirection": {
+                "noaa": 5.55
+            },
+            "windWaveHeight": {
+                "noaa": 0.27
+            },
+            "windWavePeriod": {
+                "noaa": 2.83
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.08
+            },
+            "secondarySwellDirection": {
+                "noaa": 301.42
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.32
+            },
+            "secondarySwellPeriod": {
+                "noaa": 7.72
+            },
+            "swellDirection": {
+                "noaa": 286.11
+            },
+            "swellHeight": {
+                "noaa": 0.75
+            },
+            "swellPeriod": {
+                "noaa": 10.27
+            },
+            "time": "2020-09-06T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.32
+            },
+            "waveDirection": {
+                "noaa": 283.2
+            },
+            "waveHeight": {
+                "noaa": 0.75
+            },
+            "wavePeriod": {
+                "noaa": 10.27
+            },
+            "windSpeed": {
+                "noaa": 4.07
+            },
+            "windWaveDirection": {
+                "noaa": 349.89
+            },
+            "windWaveHeight": {
+                "noaa": 0.29
+            },
+            "windWavePeriod": {
+                "noaa": 2.74
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.62
+            },
+            "secondarySwellDirection": {
+                "noaa": 302.28
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.33
+            },
+            "secondarySwellPeriod": {
+                "noaa": 7.46
+            },
+            "swellDirection": {
+                "noaa": 285.57
+            },
+            "swellHeight": {
+                "noaa": 0.74
+            },
+            "swellPeriod": {
+                "noaa": 10.23
+            },
+            "time": "2020-09-06T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.49
+            },
+            "waveDirection": {
+                "noaa": 283.23
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 10.23
+            },
+            "windSpeed": {
+                "noaa": 4.0
+            },
+            "windWaveDirection": {
+                "noaa": 334.24
+            },
+            "windWaveHeight": {
+                "noaa": 0.3
+            },
+            "windWavePeriod": {
+                "noaa": 2.64
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.15
+            },
+            "secondarySwellDirection": {
+                "noaa": 303.15
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.33
+            },
+            "secondarySwellPeriod": {
+                "noaa": 7.2
+            },
+            "swellDirection": {
+                "noaa": 285.02
+            },
+            "swellHeight": {
+                "noaa": 0.72
+            },
+            "swellPeriod": {
+                "noaa": 10.2
+            },
+            "time": "2020-09-06T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.66
+            },
+            "waveDirection": {
+                "noaa": 283.25
+            },
+            "waveHeight": {
+                "noaa": 0.72
+            },
+            "wavePeriod": {
+                "noaa": 10.2
+            },
+            "windSpeed": {
+                "noaa": 3.93
+            },
+            "windWaveDirection": {
+                "noaa": 318.58
+            },
+            "windWaveHeight": {
+                "noaa": 0.32
+            },
+            "windWavePeriod": {
+                "noaa": 2.55
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.35
+            },
+            "secondarySwellDirection": {
+                "noaa": 304.01
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.34
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.94
+            },
+            "swellDirection": {
+                "noaa": 284.14
+            },
+            "swellHeight": {
+                "noaa": 0.7
+            },
+            "swellPeriod": {
+                "noaa": 10.14
+            },
+            "time": "2020-09-06T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.56
+            },
+            "waveDirection": {
+                "noaa": 283.15
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 10.14
+            },
+            "windSpeed": {
+                "noaa": 5.16
+            },
+            "windWaveDirection": {
+                "noaa": 312.81
+            },
+            "windWaveHeight": {
+                "noaa": 0.35
+            },
+            "windWavePeriod": {
+                "noaa": 2.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 304.88
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.35
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.68
+            },
+            "swellDirection": {
+                "noaa": 283.27
+            },
+            "swellHeight": {
+                "noaa": 0.68
+            },
+            "swellPeriod": {
+                "noaa": 10.07
+            },
+            "time": "2020-09-06T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.45
+            },
+            "waveDirection": {
+                "noaa": 283.04
+            },
+            "waveHeight": {
+                "noaa": 0.76
+            },
+            "wavePeriod": {
+                "noaa": 10.07
+            },
+            "windSpeed": {
+                "noaa": 6.4
+            },
+            "windWaveDirection": {
+                "noaa": 307.05
+            },
+            "windWaveHeight": {
+                "noaa": 0.39
+            },
+            "windWavePeriod": {
+                "noaa": 2.64
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.75
+            },
+            "secondarySwellDirection": {
+                "noaa": 305.74
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.35
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.42
+            },
+            "swellDirection": {
+                "noaa": 282.39
+            },
+            "swellHeight": {
+                "noaa": 0.66
+            },
+            "swellPeriod": {
+                "noaa": 10.01
+            },
+            "time": "2020-09-06T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.35
+            },
+            "waveDirection": {
+                "noaa": 282.94
+            },
+            "waveHeight": {
+                "noaa": 0.78
+            },
+            "wavePeriod": {
+                "noaa": 10.01
+            },
+            "windSpeed": {
+                "noaa": 7.63
+            },
+            "windWaveDirection": {
+                "noaa": 301.28
+            },
+            "windWaveHeight": {
+                "noaa": 0.42
+            },
+            "windWavePeriod": {
+                "noaa": 2.68
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.32
+            },
+            "secondarySwellDirection": {
+                "noaa": 306.61
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.36
+            },
+            "secondarySwellPeriod": {
+                "noaa": 6.16
+            },
+            "swellDirection": {
+                "noaa": 282.66
+            },
+            "swellHeight": {
+                "noaa": 0.65
+            },
+            "swellPeriod": {
+                "noaa": 9.92
+            },
+            "time": "2020-09-06T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.37
+            },
+            "waveDirection": {
+                "noaa": 283.01
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 9.92
+            },
+            "windSpeed": {
+                "noaa": 7.27
+            },
+            "windWaveDirection": {
+                "noaa": 302.38
+            },
+            "windWaveHeight": {
+                "noaa": 0.47
+            },
+            "windWavePeriod": {
+                "noaa": 2.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.88
+            },
+            "secondarySwellDirection": {
+                "noaa": 307.47
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.37
+            },
+            "secondarySwellPeriod": {
+                "noaa": 5.9
+            },
+            "swellDirection": {
+                "noaa": 282.93
+            },
+            "swellHeight": {
+                "noaa": 0.64
+            },
+            "swellPeriod": {
+                "noaa": 9.83
+            },
+            "time": "2020-09-06T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.38
+            },
+            "waveDirection": {
+                "noaa": 283.08
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 9.83
+            },
+            "windSpeed": {
+                "noaa": 6.9
+            },
+            "windWaveDirection": {
+                "noaa": 303.48
+            },
+            "windWaveHeight": {
+                "noaa": 0.51
+            },
+            "windWavePeriod": {
+                "noaa": 3.21
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.45
+            },
+            "secondarySwellDirection": {
+                "noaa": 308.33
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.38
+            },
+            "secondarySwellPeriod": {
+                "noaa": 5.64
+            },
+            "swellDirection": {
+                "noaa": 283.2
+            },
+            "swellHeight": {
+                "noaa": 0.63
+            },
+            "swellPeriod": {
+                "noaa": 9.74
+            },
+            "time": "2020-09-06T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.4
+            },
+            "waveDirection": {
+                "noaa": 283.15
+            },
+            "waveHeight": {
+                "noaa": 0.84
+            },
+            "wavePeriod": {
+                "noaa": 9.74
+            },
+            "windSpeed": {
+                "noaa": 6.54
+            },
+            "windWaveDirection": {
+                "noaa": 304.58
+            },
+            "windWaveHeight": {
+                "noaa": 0.56
+            },
+            "windWavePeriod": {
+                "noaa": 3.47
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.82
+            },
+            "secondarySwellDirection": {
+                "noaa": 309.2
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.38
+            },
+            "secondarySwellPeriod": {
+                "noaa": 5.38
+            },
+            "swellDirection": {
+                "noaa": 283.46
+            },
+            "swellHeight": {
+                "noaa": 0.63
+            },
+            "swellPeriod": {
+                "noaa": 9.71
+            },
+            "time": "2020-09-06T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.37
+            },
+            "waveDirection": {
+                "noaa": 283.41
+            },
+            "waveHeight": {
+                "noaa": 0.86
+            },
+            "wavePeriod": {
+                "noaa": 9.71
+            },
+            "windSpeed": {
+                "noaa": 7.03
+            },
+            "windWaveDirection": {
+                "noaa": 312.78
+            },
+            "windWaveHeight": {
+                "noaa": 0.59
+            },
+            "windWavePeriod": {
+                "noaa": 3.61
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.18
+            },
+            "secondarySwellDirection": {
+                "noaa": 310.06
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.39
+            },
+            "secondarySwellPeriod": {
+                "noaa": 5.12
+            },
+            "swellDirection": {
+                "noaa": 283.71
+            },
+            "swellHeight": {
+                "noaa": 0.64
+            },
+            "swellPeriod": {
+                "noaa": 9.68
+            },
+            "time": "2020-09-06T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.34
+            },
+            "waveDirection": {
+                "noaa": 283.66
+            },
+            "waveHeight": {
+                "noaa": 0.89
+            },
+            "wavePeriod": {
+                "noaa": 9.68
+            },
+            "windSpeed": {
+                "noaa": 7.53
+            },
+            "windWaveDirection": {
+                "noaa": 320.99
+            },
+            "windWaveHeight": {
+                "noaa": 0.62
+            },
+            "windWavePeriod": {
+                "noaa": 3.74
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.55
+            },
+            "secondarySwellDirection": {
+                "noaa": 310.93
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.4
+            },
+            "secondarySwellPeriod": {
+                "noaa": 4.86
+            },
+            "swellDirection": {
+                "noaa": 283.97
+            },
+            "swellHeight": {
+                "noaa": 0.64
+            },
+            "swellPeriod": {
+                "noaa": 9.65
+            },
+            "time": "2020-09-06T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.31
+            },
+            "waveDirection": {
+                "noaa": 283.92
+            },
+            "waveHeight": {
+                "noaa": 0.91
+            },
+            "wavePeriod": {
+                "noaa": 9.65
+            },
+            "windSpeed": {
+                "noaa": 8.02
+            },
+            "windWaveDirection": {
+                "noaa": 329.19
+            },
+            "windWaveHeight": {
+                "noaa": 0.65
+            },
+            "windWavePeriod": {
+                "noaa": 3.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.24
+            },
+            "secondarySwellDirection": {
+                "noaa": 311.79
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.41
+            },
+            "secondarySwellPeriod": {
+                "noaa": 4.6
+            },
+            "swellDirection": {
+                "noaa": 284.43
+            },
+            "swellHeight": {
+                "noaa": 0.65
+            },
+            "swellPeriod": {
+                "noaa": 9.64
+            },
+            "time": "2020-09-06T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.32
+            },
+            "waveDirection": {
+                "noaa": 284.32
+            },
+            "waveHeight": {
+                "noaa": 0.92
+            },
+            "wavePeriod": {
+                "noaa": 9.64
+            },
+            "windSpeed": {
+                "noaa": 7.97
+            },
+            "windWaveDirection": {
+                "noaa": 351.58
+            },
+            "windWaveHeight": {
+                "noaa": 0.61
+            },
+            "windWavePeriod": {
+                "noaa": 3.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.92
+            },
+            "secondarySwellDirection": {
+                "noaa": 312.66
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.41
+            },
+            "secondarySwellPeriod": {
+                "noaa": 4.34
+            },
+            "swellDirection": {
+                "noaa": 284.89
+            },
+            "swellHeight": {
+                "noaa": 0.65
+            },
+            "swellPeriod": {
+                "noaa": 9.63
+            },
+            "time": "2020-09-06T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.32
+            },
+            "waveDirection": {
+                "noaa": 284.73
+            },
+            "waveHeight": {
+                "noaa": 0.94
+            },
+            "wavePeriod": {
+                "noaa": 9.63
+            },
+            "windSpeed": {
+                "noaa": 7.92
+            },
+            "windWaveDirection": {
+                "noaa": 13.96
+            },
+            "windWaveHeight": {
+                "noaa": 0.57
+            },
+            "windWavePeriod": {
+                "noaa": 3.45
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.61
+            },
+            "secondarySwellDirection": {
+                "noaa": 313.52
+            },
+            "secondarySwellHeight": {
+                "noaa": 0.42
+            },
+            "secondarySwellPeriod": {
+                "noaa": 4.08
+            },
+            "swellDirection": {
+                "noaa": 285.35
+            },
+            "swellHeight": {
+                "noaa": 0.66
+            },
+            "swellPeriod": {
+                "noaa": 9.62
+            },
+            "time": "2020-09-07T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.32
+            },
+            "waveDirection": {
+                "noaa": 285.13
+            },
+            "waveHeight": {
+                "noaa": 0.95
+            },
+            "wavePeriod": {
+                "noaa": 9.62
+            },
+            "windSpeed": {
+                "noaa": 7.87
+            },
+            "windWaveDirection": {
+                "noaa": 36.35
+            },
+            "windWaveHeight": {
+                "noaa": 0.53
+            },
+            "windWavePeriod": {
+                "noaa": 3.23
+            }
+        }
+    ],
+    "meta": {
+        "cost": 1,
+        "dailyQuota": 50,
+        "end": "2020-09-07 00:00",
+        "lat": 47.72,
+        "lng": -3.49,
+        "params": [
+            "waveHeight",
+            "airTemperature",
+            "swellDirection",
+            "swellHeight",
+            "swellPeriod",
+            "secondarySwellPeriod",
+            "secondarySwellDirection",
+            "secondarySwellHeight",
+            "waterTemperature",
+            "waveDirection",
+            "waveHeight",
+            "wavePeriod",
+            "windWaveDirection",
+            "windWaveHeight",
+            "windWavePeriod",
+            "windSpeed"
+        ],
+        "requestCount": 11,
+        "source": [
+            "noaa"
+        ],
+        "start": "2020-09-01 00:00"
+    }
+}

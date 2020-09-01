@@ -1,4 +1,4 @@
-# surf
+# Surf-forecast-rennes
 
 ## Build Setup
 
