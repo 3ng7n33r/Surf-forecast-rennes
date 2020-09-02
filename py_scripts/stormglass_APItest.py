@@ -21,13 +21,17 @@ response = requests.get(
   params={
     'lat': 47.72,
     'lng': -3.49,
-    'params': ','.join(['waveHeight', 'airTemperature'
-                        , 'swellDirection', 'swellHeight', 'swellPeriod', 
-                        'secondarySwellPeriod', 'secondarySwellDirection', 
-                        'secondarySwellHeight', 'waterTemperature', 
-                        'waveDirection', 'waveHeight', 'wavePeriod', 
-                        'windWaveDirection', 'windWaveHeight', 'windWavePeriod',
-                        'windSpeed']),
+    # 'params': ','.join(['waveHeight', 'airTemperature'
+    #                     , 'swellDirection', 'swellHeight', 'swellPeriod', 
+    #                     'secondarySwellPeriod', 'secondarySwellDirection', 
+    #                     'secondarySwellHeight', 'waterTemperature', 
+    #                     'waveDirection', 'waveHeight', 'wavePeriod', 
+    #                     'windWaveDirection', 'windWaveHeight', 'windWavePeriod',
+    #                     'windSpeed']),
+    'params': ','.join(['waveHeight', 'airTemperature',
+                    'waterTemperature', 
+                    'waveDirection', 'waveHeight', 'wavePeriod', 
+                    'windSpeed']),
     'start': start.timestamp,  # Convert to timestamp
     'end': end.timestamp,  # Convert to UTC timestamp
     'source': 'noaa'

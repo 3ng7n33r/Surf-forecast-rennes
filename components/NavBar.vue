@@ -1,17 +1,32 @@
 <template>
-  <v-card color="grey lighten-4" flat height="200px" tile>
-    <v-toolbar dense>
-      <v-toolbar-title>Surf</v-toolbar-title>
+  <v-toolbar dense>
+    <v-toolbar-title>Surf Forecast Rennes</v-toolbar-title>
 
-      <v-spacer></v-spacer>
+    <v-spacer></v-spacer>
 
-      <v-btn icon to="/">
-        <v-icon>mdi-home</v-icon>
-      </v-btn>
-
-      <v-btn text>
-        <n-link n-link to="/about"> About </n-link>
-      </v-btn>
-    </v-toolbar>
-  </v-card>
+    <v-btn v-for="link in links" :key="link" text :to="link.url">
+      {{ link.label }}
+    </v-btn>
+  </v-toolbar>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      links: [
+        {
+          label: 'Home',
+          url: '/',
+        },
+        {
+          label: 'About',
+          url: '/about',
+        },
+      ],
+    }
+  },
+}
+</script>
+
+<style scoped></style>

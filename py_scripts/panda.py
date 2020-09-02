@@ -11,13 +11,13 @@ testdata = data["hours"]
 flattened_data = pd.json_normalize(testdata)
 flatClean = pd.DataFrame()
 
-for row in flattened_data.itertuples():
-    arrowtime = arrow.get(row.time)
-    row.time = arrowtime.to('cet')
+col_one_list = flattened_data['time'].tolist()
 
+col_one_list = [((arrow.get(hour)).shift(hours=+2)).format('YYYY-MM-DD HH:mm') for hour in col_one_list]
 
-# for i in range(0,len(flattened_data),6):
-#     print(i)
-#     flatClean.append(flattened_data.iloc[i])
-    
+flattened_data["time"] = col_one_list
 
+# flatClean = [clean for clean in flattened_data[7::] if flattened_data["Index"] % 6 == 0]
+
+for i in flattened_data.itertuples("time"):
+    print(i)
