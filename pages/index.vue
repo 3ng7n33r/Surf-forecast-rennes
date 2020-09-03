@@ -57,11 +57,28 @@
         </v-card>
       </v-col>
     </v-row>
+
+    <!--     <v-row>
+      <v-col v-for="tide in tides" :key="`${weather.label}-card`">
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ weather.label }}</v-card-title>
+          <v-card-text>{{ weather.dim }}</v-card-text>
+        </v-card>
+      </v-col>
+    </v-row> -->
   </v-container>
 </template>
 
 <script>
+// const getTides = () => import('~/static/tides.json').then((m) => m.default || m)
+
 export default {
+  /*   async asyncData({ req }) {
+    const tides = await getTides()
+
+    return { tides }
+  }, */
+
   data() {
     return {
       Waves: [

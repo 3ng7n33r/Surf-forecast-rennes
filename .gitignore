@@ -1,4 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
+storm_API.txt
+py_scripts/*.json
+static/*.json
+
 ### Node template
 # Logs
 /logs

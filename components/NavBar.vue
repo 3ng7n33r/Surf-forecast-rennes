@@ -4,9 +4,9 @@
 
     <v-spacer></v-spacer>
 
-    <v-btn v-for="link in links" :key="link" text :to="link.url">
-      {{ link.label }}
-    </v-btn>
+    <v-btn v-for="link in links" :key="link" :to="link.url">{{
+      link.label
+    }}</v-btn>
   </v-toolbar>
 </template>
 
