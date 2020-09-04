@@ -10,65 +10,64 @@
       </v-row>
       <v-divider></v-divider>
     </div>
-    <div v-for="(data, index) in $options.myJson" :key="`${index}-weather`">
-      <v-row justify="center">
-        <v-spacer></v-spacer>
-        <v-column>
-          <h1>{{ data.date }} {{ data.hour }}</h1>
-        </v-column>
-        <v-spacer></v-spacer>
-      </v-row>
-      <v-row justify="center">
-        <v-col>
-          <v-card-text class="text-md-center">
-            <h2>Waves</h2>
-          </v-card-text>
-        </v-col>
-      </v-row>
-      <v-row>
-        <v-col v-for="wave in Waves" :key="`${wave.label}-card`">
-          <v-card outlined color="#78909C">
-            <v-card-title>{{ wave.label }}</v-card-title>
-            <v-card-text>{{ data.waveHeight }} m</v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
+    <v-row justify="center">
+      <v-spacer></v-spacer>
+      <v-column>
+        <h1>04.09.2020 12:07</h1>
+      </v-column>
+      <v-spacer></v-spacer>
+    </v-row>
+    <v-row justify="center">
+      <v-col>
+        <v-card-text class="text-md-center">
+          <h2>Waves</h2>
+        </v-card-text>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col v-for="wave in Waves" :key="`${wave.label}-card`">
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ wave.label }}</v-card-title>
+          <v-card-text>{{ wave.dim }}</v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
 
-      <v-divider></v-divider>
-      <v-row justify="center">
-        <v-col>
-          <v-card-text class="text-md-center">
-            <h2>Wind</h2>
-          </v-card-text>
-        </v-col>
-      </v-row>
-      <v-row>
-        <v-col v-for="wind in Wind" :key="`${wind.label}-card`">
-          <v-card outlined color="#78909C">
-            <v-card-title>{{ wind.label }}</v-card-title>
-            <v-card-text>{{ wind.dim }}</v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
+    <v-divider></v-divider>
+    <v-row justify="center">
+      <v-col>
+        <v-card-text class="text-md-center">
+          <h2>Wind</h2>
+        </v-card-text>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col v-for="wind in Wind" :key="`${wind.label}-card`">
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ wind.label }}</v-card-title>
+          <v-card-text>{{ wind.dim }}</v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
 
-      <v-divider></v-divider>
-      <v-row justify="center">
-        <v-col>
-          <v-card-text class="text-md-center">
-            <h2>Weather</h2>
-          </v-card-text>
-        </v-col>
-      </v-row>
-      <v-row>
-        <v-col v-for="weather in Weather" :key="`${weather.label}-card`">
-          <v-card outlined color="#78909C">
-            <v-card-title>{{ weather.label }}</v-card-title>
-            <v-card-text>{{ weather.dim }}</v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
+    <v-divider></v-divider>
+    <v-row justify="center">
+      <v-col>
+        <v-card-text class="text-md-center">
+          <h2>Weather</h2>
+        </v-card-text>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col v-for="weather in Weather" :key="`${weather.label}-card`">
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ weather.label }}</v-card-title>
+          <v-card-text>{{ weather.dim }}</v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
 
-      <!--       <v-row>
+    <!--       <v-row>
         <div>
           <div
             v-for="(data, index) in $options.myJson"
@@ -77,8 +76,7 @@
             date: {{ data.date }} hour: {{ data.hour }}
           </div>
         </div>
-      </v-row> -->
-    </div>
+    </v-row>-->
   </v-container>
 </template>
 

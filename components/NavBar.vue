@@ -4,7 +4,7 @@
 
     <v-spacer></v-spacer>
 
-    <v-btn v-for="link in links" :key="link" :to="link.url">{{
+    <v-btn v-for="link in links" :key="link.label" :to="link.url">{{
       link.label
     }}</v-btn>
   </v-toolbar>
