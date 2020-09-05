@@ -15,6 +15,6 @@ trim_trailing_whitespace = false
 {
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": false
   }
 }

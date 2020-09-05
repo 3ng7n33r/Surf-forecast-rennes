@@ -67,33 +67,33 @@
       </v-col>
     </v-row>
 
-    <!--       <v-row>
-        <div>
-          <div
-            v-for="(data, index) in $options.myJson"
-            :key="`${index}-weather`"
-          >
-            date: {{ data.date }} hour: {{ data.hour }}
-          </div>
-        </div>
-    </v-row>-->
+    <!--     <v-row>
+      <v-col
+        v-for="temp in hour3Temperature"
+        :key="`${temp.date}-${temp.hour}-card`"
+      >
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ temp.date }}</v-card-title>
+        </v-card>
+      </v-col>
+    </v-row> -->
+    <v-row>
+      <v-col v-for="temp in hour3Temperature" :key="`${temp}-card`">
+        <v-card outlined color="#78909C">
+          <v-card-title>{{ temp }}</v-card-title>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
 <script>
-// const getTides = () => import('~/static/tides.json').then((m) => m.default || m)
-import MY_JSON from '~/static/data.json'
-
 export default {
-  /*   async asyncData({ req }) {
-    const tides = await getTides()
-
-    return { tides }
-  }, */
-  myJson: MY_JSON,
-
   data() {
+    const json = require('~/static/data.json')
+
     return {
+      hour3Temperature: json.date,
       Waves: [
         {
           label: 'Height',

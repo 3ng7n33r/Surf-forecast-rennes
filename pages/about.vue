@@ -69,9 +69,18 @@
 
       <v-row justify="center">
         <v-spacer></v-spacer>
-        <div>
+        <a href="mailto:3ng7n33r@mail.fr">
           <img src="~assets/emailIcon.svg" />
-        </div>
+        </a>
+        <a href="https://www.linkedin.com/in/maximilian-blacher/">
+          <img src="~assets/linkedIcon.svg" />
+        </a>
+        <a href="https://github.com/3ng7n33r">
+          <img src="~assets/gitHubIcon.svg" />
+        </a>
+        <a href="https://3ng7n33r.github.io/">
+          <img src="~assets/portfolioIcon.svg" />
+        </a>
         <v-spacer></v-spacer>
       </v-row>
     </div>
@@ -85,6 +94,10 @@ export default {}
 <style scoped>
 h1 {
   padding: 30px 0 30px 0;
+}
+
+img {
+  padding: 30px;
 }
 
 v-column {
