@@ -8,15 +8,15 @@
         </v-column>
         <v-spacer></v-spacer>
       </v-row>
-      <v-divider></v-divider>
     </div>
     <v-row justify="center">
       <v-spacer></v-spacer>
       <v-column>
-        <h1>04.09.2020 12:07</h1>
+        <h1>{{ weatherData[0].date }}</h1>
       </v-column>
       <v-spacer></v-spacer>
     </v-row>
+    <v-divider></v-divider>
     <v-row justify="center">
       <v-col>
         <v-card-text class="text-md-center">
@@ -25,10 +25,22 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col v-for="wave in Waves" :key="`${wave.label}-card`">
+      <v-col>
+        <v-card outlined color="#66BB6A">
+          <v-card-title>Height</v-card-title>
+          <v-card-text>{{ weatherData[0].waveHeight }} m</v-card-text>
+        </v-card>
+      </v-col>
+      <v-col>
+        <v-card outlined color="#66BB6A">
+          <v-card-title>Frequency</v-card-title>
+          <v-card-text>{{ weatherData[0].wavePeriod }} s</v-card-text>
+        </v-card>
+      </v-col>
+      <v-col>
         <v-card outlined color="#78909C">
-          <v-card-title>{{ wave.label }}</v-card-title>
-          <v-card-text>{{ wave.dim }}</v-card-text>
+          <v-card-title>Direction</v-card-title>
+          <v-card-text>{{ weatherData[0].waveDirection }} °</v-card-text>
         </v-card>
       </v-col>
     </v-row>
@@ -42,10 +54,16 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col v-for="wind in Wind" :key="`${wind.label}-card`">
+      <v-col>
         <v-card outlined color="#78909C">
-          <v-card-title>{{ wind.label }}</v-card-title>
-          <v-card-text>{{ wind.dim }}</v-card-text>
+          <v-card-title>Speed</v-card-title>
+          <v-card-text>{{ weatherData[0].windSpeed }} km/h</v-card-text>
+        </v-card>
+      </v-col>
+      <v-col>
+        <v-card outlined color="#78909C">
+          <v-card-title>Direction</v-card-title>
+          <v-card-text>{{ weatherData[0].windDirection }} °</v-card-text>
         </v-card>
       </v-col>
     </v-row>
@@ -59,31 +77,21 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col v-for="weather in Weather" :key="`${weather.label}-card`">
+      <v-col>
         <v-card outlined color="#78909C">
-          <v-card-title>{{ weather.label }}</v-card-title>
-          <v-card-text>{{ weather.dim }}</v-card-text>
+          <v-card-title>Air Temperature</v-card-title>
+          <v-card-text>{{ weatherData[0].airTemperature }} °</v-card-text>
         </v-card>
       </v-col>
-    </v-row>
 
-    <!--     <v-row>
-      <v-col
-        v-for="temp in hour3Temperature"
-        :key="`${temp.date}-${temp.hour}-card`"
-      >
+      <v-col>
         <v-card outlined color="#78909C">
-          <v-card-title>{{ temp.date }}</v-card-title>
-        </v-card>
-      </v-col>
-    </v-row> -->
-    <v-row>
-      <v-col v-for="temp in hour3Temperature" :key="`${temp}-card`">
-        <v-card outlined color="#78909C">
-          <v-card-title>{{ temp }}</v-card-title>
+          <v-card-title>Water Temperature</v-card-title>
+          <v-card-text>{{ weatherData[0].waterTemperature }} °</v-card-text>
         </v-card>
       </v-col>
     </v-row>
+    <!--         :key="`${temp.date}-${temp.hour}-card`" -->
   </v-container>
 </template>
 
@@ -93,47 +101,13 @@ export default {
     const json = require('~/static/data.json')
 
     return {
-      hour3Temperature: json.date,
-      Waves: [
+      weatherData: json,
+
+      colorCode: [
         {
-          label: 'Height',
-          dim: '0,2 m',
-        },
-        {
-          label: 'Frequency',
-          dim: '10 s',
-        },
-        {
-          label: 'Direction',
-          dim: '272°',
-        },
-      ],
-      Wind: [
-        {
-          label: 'Strength',
-          dim: '10 km/h',
-        },
-        {
-          label: 'Direction',
-          dim: '272°',
-        },
-      ],
-      Weather: [
-        {
-          label: 'Air Temperature',
-          dim: '18°C',
-        },
-        {
-          label: 'Water Temperature',
-          dim: '12°C',
-        },
-        {
-          label: 'Tide',
-          dim: 'Receding Low tide at 15:32',
-        },
-        {
-          label: 'Sky',
-          dim: 'Sunny',
+          good: '#66BB6A',
+          average: '#F4FF81',
+          bad: '#EF9A9A',
         },
       ],
     }

@@ -30,7 +30,7 @@ response = requests.get(
     'params': ','.join(['waveHeight', 'airTemperature',
                     'waterTemperature', 
                     'waveDirection', 'waveHeight', 'wavePeriod', 
-                    'windSpeed']),
+                    'windSpeed', 'windDirection']),
     'start': start.timestamp,  # Convert to timestamp
     'end': end.timestamp,  # Convert to UTC timestamp
     'source': 'noaa'
