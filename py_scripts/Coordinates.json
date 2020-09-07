@@ -1,0 +1,22 @@
+[{"name": "southern shore - Nantes",
+"lat": 47.24,
+"lng": -2.3,
+"orientation": 190
+},
+{"name": "southern shore - Vannes",
+"lat": 47.72,
+"lng": -3.49,
+"orientation": 230
+},
+{"name": "Northern shore - St.Malo",
+"lat": 48.67,
+"lng": -2.01,
+"orientation": 330
+},
+{"name": "Normandy - Siouville",
+"lat": 49.57,
+"lng": -1.85,
+"orientation": 280
+},
+
+]
