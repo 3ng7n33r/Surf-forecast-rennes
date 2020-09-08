@@ -1,6 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 storm_API.txt
 static/*.json
+dataApi.json
+dataTideApi.json
 
 ### Node template
 # Logs
