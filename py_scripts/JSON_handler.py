@@ -1,5 +1,3 @@
-import os
-import sys
 import pandas as pd
 import json
 import simplejson
@@ -7,12 +5,8 @@ import arrow
 
 # %%
 
-try:
-    with open(os.path.join(sys.path[0], "dataApi.json"), "r") as json_file:
-        data = json.load(json_file)
-except: 
-    with open("dataApi.json", "r") as json_file:
-        data = json.load(json_file)
+with open("dataApi.json", "r") as json_file:
+    data = json.load(json_file)
 
 testdata = data["hours"]
 
@@ -43,19 +37,15 @@ flatClean = flattened_data[flattened_data.hour.isin(hours)]
 cleanjson = json.loads(flatClean.to_json(orient="records"))
 
 # now write output to a file
-cleandata = open("../static/data.json", "w")
+cleandata = open("data.json", "w")
 # magic happens here to make it pretty-printed
 cleandata.write(simplejson.dumps(cleanjson, indent=4, sort_keys=True))
 cleandata.close()
 
 # %% tide data
 
-try:
-    with open(os.path.join(sys.path[0], "dataTideApi.json"), "r") as json_file:
-        tides = json.load(json_file)
-except: 
-    with open("dataTideApi.json", "r") as json_file:
-        tides = json.load(json_file)
+with open("dataTideApi.json", "r") as json_file:
+    tides = json.load(json_file)
     
 testdata = tides["data"]
 flattened_data = pd.json_normalize(testdata)
@@ -69,7 +59,7 @@ flattened_data.pop("time")
 cleanjson = json.loads(flattened_data.to_json(orient="records"))
 
 # now write output to a file
-cleandata = open("../static/tides.json", "w")
+cleandata = open("tides.json", "w")
 # magic happens here to make it pretty-printed
 cleandata.write(simplejson.dumps(cleanjson, indent=4, sort_keys=True))
 cleandata.close()

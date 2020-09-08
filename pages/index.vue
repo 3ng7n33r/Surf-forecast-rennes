@@ -98,7 +98,7 @@
 <script>
 export default {
   data() {
-    const json = require('~/static/data.json')
+    const json = require('~/py_scripts/data.json')
 
     return {
       weatherData: json,

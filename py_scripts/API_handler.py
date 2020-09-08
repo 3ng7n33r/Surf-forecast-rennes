@@ -1,16 +1,10 @@
 # Initializ libs and pw's
-import os
-import sys
 import requests
 import arrow
 import simplejson
 
-try:
-    with open(os.path.join(sys.path[0], "storm_API.txt"), "r") as f:
-        apiKey = f.read()
-except: 
-    with open("storm_API.txt", "r") as f:
-        apiKey = f.read()
+with open("storm_API.txt", "r") as f:
+    apiKey = f.read()
 
 
 # %% Fetch data from stormglass

@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 storm_API.txt
-static/*.json
+py_scripts/*.json
 dataApi.json
 dataTideApi.json
 
