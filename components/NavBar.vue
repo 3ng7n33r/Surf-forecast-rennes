@@ -4,9 +4,13 @@
 
     <v-spacer></v-spacer>
 
-    <v-btn v-for="link in links" :key="link.label" :to="link.url">{{
-      link.label
-    }}</v-btn>
+    <v-btn
+      v-for="link in links"
+      :key="link.label"
+      :to="link.url"
+      class="pa-0"
+      >{{ link.label }}</v-btn
+    >
   </v-toolbar>
 </template>
 
@@ -29,4 +33,4 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style lang="scss" scoped></style>

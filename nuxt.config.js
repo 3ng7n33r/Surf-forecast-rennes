@@ -1,5 +1,3 @@
-import colors from 'vuetify/es5/util/colors';
-
 export default {
   /*
    ** Nuxt rendering mode
@@ -17,13 +15,14 @@ export default {
    */
   head: {
     titleTemplate: '%s - ' + process.env.npm_package_name,
-    title: process.env.npm_package_name || '',
-    meta: [{
-        charset: 'utf-8'
+    title: 'Surf forecast Rennes',
+    meta: [
+      {
+        charset: 'utf-8',
       },
       {
         name: 'viewport',
-        content: 'width=device-width, initial-scale=1'
+        content: 'width=device-width, initial-scale=1',
       },
       {
         hid: 'description',
@@ -31,11 +30,13 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
-    link: [{
-      rel: 'icon',
-      type: 'image/x-icon',
-      href: '/favicon.ico'
-    }],
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '~/assets/favicon.ico',
+      },
+    ],
   },
   /*
    ** Global CSS
@@ -78,7 +79,7 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
-      disabled: true
+      disabled: true,
     },
   },
   /*
@@ -86,4 +87,4 @@ export default {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {},
-};
+}

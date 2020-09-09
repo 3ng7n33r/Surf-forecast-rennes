@@ -1,4 +1,9 @@
 <template>
+  <!--   <v-container
+    :style="{
+      backgroundImage: 'url(' + require('@/static/Background_sunset.jpg') + ')',
+    }"
+  > -->
   <v-container>
     <div>
       <v-row justify="center">
@@ -8,15 +13,29 @@
         </v-column>
         <v-spacer></v-spacer>
       </v-row>
+
+      <v-row justify="center">
+        <v-spacer></v-spacer>
+        <v-column>
+          <h1>{{ weatherData[toggle_one].date }}</h1>
+        </v-column>
+        <v-spacer></v-spacer>
+      </v-row>
+      <v-row class="center" justify="center">
+        <v-btn-toggle v-model="toggle_one" mandatory>
+          <div
+            v-for="daytime in dayTime"
+            :key="daytime.time"
+            class="buttonspace"
+          >
+            <v-btn v-bind="size">{{ daytime.time }}</v-btn>
+          </div>
+        </v-btn-toggle>
+      </v-row>
     </div>
-    <v-row justify="center">
-      <v-spacer></v-spacer>
-      <v-column>
-        <h1>{{ weatherData[0].date }}</h1>
-      </v-column>
-      <v-spacer></v-spacer>
-    </v-row>
+
     <v-divider></v-divider>
+
     <v-row justify="center">
       <v-col>
         <v-card-text class="text-md-center">
@@ -26,21 +45,35 @@
     </v-row>
     <v-row>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWaveHeight }">
+        <v-card
+          outlined
+          min-width="145px"
+          :style="{ backgroundColor: cCodeWaveHeight }"
+        >
           <v-card-title>Height</v-card-title>
-          <v-card-text>{{ weatherData[0].waveHeight }} m</v-card-text>
+          <v-card-text>{{ weatherData[toggle_one].waveHeight }} m</v-card-text>
         </v-card>
       </v-col>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWaveFreq }">
+        <v-card
+          outlined
+          min-width="145px"
+          :style="{ backgroundColor: cCodeWaveFreq }"
+        >
           <v-card-title>Frequency</v-card-title>
-          <v-card-text>{{ weatherData[0].wavePeriod }} s</v-card-text>
+          <v-card-text>{{ weatherData[toggle_one].wavePeriod }} s</v-card-text>
         </v-card>
       </v-col>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWaveDir }">
+        <v-card
+          outlined
+          min-width="145px"
+          :style="{ backgroundColor: cCodeWaveDir }"
+        >
           <v-card-title>Direction</v-card-title>
-          <v-card-text>{{ weatherData[0].waveDirection }} °</v-card-text>
+          <v-card-text
+            >{{ weatherData[toggle_one].waveDirection }} °</v-card-text
+          >
         </v-card>
       </v-col>
     </v-row>
@@ -55,15 +88,27 @@
     </v-row>
     <v-row>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWindSpeed }">
+        <v-card
+          outlined
+          min-width="135px"
+          :style="{ backgroundColor: cCodeWindSpeed }"
+        >
           <v-card-title>Speed</v-card-title>
-          <v-card-text>{{ weatherData[0].windSpeed }} km/h</v-card-text>
+          <v-card-text
+            >{{ weatherData[toggle_one].windSpeed }} km/h</v-card-text
+          >
         </v-card>
       </v-col>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWindDir }">
+        <v-card
+          outlined
+          min-width="135px"
+          :style="{ backgroundColor: cCodeWindDir }"
+        >
           <v-card-title>Direction</v-card-title>
-          <v-card-text>{{ weatherData[0].windDirection }} °</v-card-text>
+          <v-card-text
+            >{{ weatherData[toggle_one].windDirection }} °</v-card-text
+          >
         </v-card>
       </v-col>
     </v-row>
@@ -78,16 +123,28 @@
     </v-row>
     <v-row>
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeAirTemp }">
+        <v-card
+          outlined
+          min-width="240px"
+          :style="{ backgroundColor: cCodeAirTemp }"
+        >
           <v-card-title>Air Temperature</v-card-title>
-          <v-card-text>{{ weatherData[0].airTemperature }} °</v-card-text>
+          <v-card-text
+            >{{ weatherData[toggle_one].airTemperature }} °</v-card-text
+          >
         </v-card>
       </v-col>
 
       <v-col>
-        <v-card outlined :style="{ backgroundColor: cCodeWaterTemp }">
+        <v-card
+          outlined
+          min-width="240px"
+          :style="{ backgroundColor: cCodeWaterTemp }"
+        >
           <v-card-title>Water Temperature</v-card-title>
-          <v-card-text>{{ weatherData[0].waterTemperature }} °</v-card-text>
+          <v-card-text
+            >{{ weatherData[toggle_one].waterTemperature }} °</v-card-text
+          >
         </v-card>
       </v-col>
     </v-row>
@@ -101,7 +158,35 @@ export default {
     const json = require('~/py_scripts/data.json')
 
     return {
+      toggle_one: 0,
+
+      dayTime: [
+        {
+          time: '09:00',
+          action: 0,
+        },
+        {
+          time: '12:00',
+          action: 1,
+        },
+        {
+          time: '15:00',
+          action: 2,
+        },
+        {
+          time: '18:00',
+          action: 3,
+        },
+        {
+          time: '21:00',
+          action: 4,
+        },
+      ],
+
       weatherData: json,
+
+      BGColor: '#E3F2FD',
+      BGColorHead: '#BBDEFB',
 
       cCodeWaveHeight: '#E0E0E0',
       cCodeWaveFreq: '#E0E0E0',
@@ -117,6 +202,14 @@ export default {
         bad: '#EF9A9A',
       },
     }
+  },
+  computed: {
+    size() {
+      const size = { xs: 'x-small', sm: 'small', lg: 'large', xl: 'x-large' }[
+        this.$vuetify.breakpoint.name
+      ]
+      return size ? { [size]: true } : {}
+    },
   },
 
   mounted() {
@@ -179,4 +272,20 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style lang="scss" scoped>
+h1 {
+  height: 90%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.buttonspace {
+  padding: 5px;
+  align-items: center;
+}
+.center {
+  justify-content: center;
+}
+</style>
