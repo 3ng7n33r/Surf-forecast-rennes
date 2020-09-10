@@ -14,8 +14,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    titleTemplate: '%s - ' + process.env.npm_package_name,
-    title: 'Surf forecast Rennes',
+    title: 'Surf-Bretagne',
     meta: [
       {
         charset: 'utf-8',
@@ -25,16 +24,44 @@ export default {
         content: 'width=device-width, initial-scale=1',
       },
       {
+        name: 'author',
+        content: 'Maximilian Blacher',
+      },
+      {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || '',
+        content: 'Surf Forecast Rennes',
+      },
+      {
+        property: 'og:title',
+        content: 'Surf-Bretagne',
+      },
+      {
+        property: 'og:image',
+        content: '~/static/SBScreenshot.png',
       },
     ],
     link: [
       {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '~/assets/apple-touch-icon.png',
+      },
+      {
         rel: 'icon',
-        type: 'image/x-icon',
-        href: '~/assets/favicon.ico',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '~/assets/favicon-32x32.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '~/assets/favicon-16x16.png',
+      },
+      {
+        rel: 'manifest',
+        href: '~/assets/site.webmanifest',
       },
     ],
   },

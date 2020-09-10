@@ -1,19 +1,16 @@
 <template>
   <v-container>
     <div>
-      <v-row justify="center">
-        <v-spacer></v-spacer>
+      <v-row class="center">
         <v-column>
           <h1>About</h1>
         </v-column>
-        <v-spacer></v-spacer>
       </v-row>
       <v-divider></v-divider>
 
-      <v-row justify="center">
-        <v-spacer></v-spacer>
+      <v-row class="center">
         <v-column>
-          <h1>What is this?</h1>
+          <h2>What is this?</h2>
           <p>
             Primarily, this is a portfolio piece. I'm a former mechanical
             engineer that for multiple reasons decided to switch careers. So to
@@ -33,13 +30,11 @@
             </ul>
           </div>
         </v-column>
-        <v-spacer></v-spacer>
       </v-row>
 
-      <v-row justify="center">
-        <v-spacer></v-spacer>
+      <v-row class="center">
         <v-column>
-          <h1>So who are you?</h1>
+          <h2>So who are you?</h2>
           <p>
             I'm Max. I was born and raised in Germany and have recently moved to
             Rennes in France. If you'd like to find out more just visit my
@@ -52,23 +47,19 @@
             <a href="mailto:3ng7n33r@mail.fr">mail</a>
           </p>
         </v-column>
-        <v-spacer></v-spacer>
       </v-row>
 
-      <v-row justify="center">
-        <v-spacer></v-spacer>
+      <v-row class="center">
         <v-column>
-          <h1>Privacy Policy</h1>
+          <h2>Privacy Policy</h2>
           <p>
             I will not collect or store any of your data. I have no use for it.
             There are no ads or tracking on this website.
           </p>
         </v-column>
-        <v-spacer></v-spacer>
       </v-row>
 
-      <v-row justify="center">
-        <v-spacer></v-spacer>
+      <v-row class="center">
         <a href="mailto:3ng7n33r@mail.fr">
           <img src="~assets/emailIcon.svg" />
         </a>
@@ -81,7 +72,6 @@
         <a href="https://3ng7n33r.github.io/">
           <img src="~assets/portfolioIcon.svg" />
         </a>
-        <v-spacer></v-spacer>
       </v-row>
     </div>
   </v-container>
@@ -96,12 +86,16 @@ h1 {
   padding: 30px 0 30px 0;
 }
 
+h2 {
+  padding: 30px 0 30px 0;
+}
+
 img {
-  padding: 30px;
+  padding: 30px 10px 30px 10px;
 }
 
 v-column {
-  width: 50vw;
+  width: 80vw;
 }
 
 ul {
@@ -115,8 +109,6 @@ p {
 }
 
 .center {
-  margin: auto;
-  width: 80%;
-  padding: 10px;
+  justify-content: center;
 }
 </style>
