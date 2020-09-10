@@ -93,6 +93,7 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    'nuxt-i18n',
   ],
   /*
    ** Axios module configuration
@@ -107,6 +108,25 @@ export default {
     customVariables: ['~/assets/variables.scss'],
     theme: {
       disabled: true,
+    },
+  },
+  /* https://i18n.nuxtjs.org/basic-usage */
+  i18n: {
+    locales: ['en', 'fr', 'ger'],
+    defaultLocale: 'en',
+    vueI18n: {
+      fallbackLocale: 'en',
+      messages: {
+        en: {
+          welcome: 'Welcome',
+        },
+        fr: {
+          welcome: 'Bienvenue',
+        },
+        ger: {
+          welcome: 'Willkommen',
+        },
+      },
     },
   },
   /*
