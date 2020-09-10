@@ -5,7 +5,7 @@
         <v-col class="text-center">
           <div>
             {{ new Date().getFullYear() }} —
-            <strong>Surf Forecast Rennes</strong>
+            <strong>Surf-Bretagne</strong>
           </div>
         </v-col>
         <v-spacer></v-spacer>

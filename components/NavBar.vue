@@ -1,6 +1,6 @@
 <template>
   <v-toolbar dense>
-    <v-toolbar-title>Surf Forecast Rennes</v-toolbar-title>
+    <v-toolbar-title>Surf-Bretagne</v-toolbar-title>
 
     <v-spacer></v-spacer>
 
