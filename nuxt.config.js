@@ -38,7 +38,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: '/SBScreenshot.png',
+        content: 'https://surf-bretagne.xyz/SBScreenshot.png',
       },
     ],
     link: [
