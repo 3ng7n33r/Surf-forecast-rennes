@@ -1,71 +1,5 @@
 [
     {
-        "airTemperature": 17.69,
-        "date": "2020-09-09",
-        "hour": "06:00",
-        "waterTemperature": 18.34,
-        "waveDirection": 292.14,
-        "waveHeight": 0.66,
-        "wavePeriod": 10.09,
-        "windDirection": 49.73,
-        "windSpeed": 4.2
-    },
-    {
-        "airTemperature": 17.68,
-        "date": "2020-09-09",
-        "hour": "09:00",
-        "waterTemperature": 18.19,
-        "waveDirection": 291.51,
-        "waveHeight": 0.64,
-        "wavePeriod": 10.07,
-        "windDirection": 42.5,
-        "windSpeed": 3.44
-    },
-    {
-        "airTemperature": 18.53,
-        "date": "2020-09-09",
-        "hour": "12:00",
-        "waterTemperature": 19.11,
-        "waveDirection": 291.82,
-        "waveHeight": 0.61,
-        "wavePeriod": 9.91,
-        "windDirection": 6.99,
-        "windSpeed": 2.23
-    },
-    {
-        "airTemperature": 19.79,
-        "date": "2020-09-09",
-        "hour": "15:00",
-        "waterTemperature": 20.05,
-        "waveDirection": 290.35,
-        "waveHeight": 0.6,
-        "wavePeriod": 9.71,
-        "windDirection": 279.17,
-        "windSpeed": 4.13
-    },
-    {
-        "airTemperature": 20.52,
-        "date": "2020-09-09",
-        "hour": "18:00",
-        "waterTemperature": 18.72,
-        "waveDirection": 289.02,
-        "waveHeight": 0.64,
-        "wavePeriod": 9.57,
-        "windDirection": 307.2,
-        "windSpeed": 7.01
-    },
-    {
-        "airTemperature": 20.83,
-        "date": "2020-09-09",
-        "hour": "21:00",
-        "waterTemperature": 18.45,
-        "waveDirection": 288.45,
-        "waveHeight": 0.68,
-        "wavePeriod": 9.39,
-        "windDirection": 355.53,
-        "windSpeed": 6.65
-    },
-    {
         "airTemperature": 17.72,
         "date": "2020-09-10",
         "hour": "06:00",
@@ -394,5 +328,71 @@
         "wavePeriod": 11.07,
         "windDirection": 128.25,
         "windSpeed": 4.98
+    },
+    {
+        "airTemperature": 19.83,
+        "date": "2020-09-15",
+        "hour": "06:00",
+        "waterTemperature": 18.27,
+        "waveDirection": 280.19,
+        "waveHeight": 1.01,
+        "wavePeriod": 10.64,
+        "windDirection": 169.7,
+        "windSpeed": 6.08
+    },
+    {
+        "airTemperature": 19.54,
+        "date": "2020-09-15",
+        "hour": "09:00",
+        "waterTemperature": 18.13,
+        "waveDirection": 280.61,
+        "waveHeight": 1.0,
+        "wavePeriod": 10.45,
+        "windDirection": 131.29,
+        "windSpeed": 5.16
+    },
+    {
+        "airTemperature": 19.05,
+        "date": "2020-09-15",
+        "hour": "12:00",
+        "waterTemperature": 18.42,
+        "waveDirection": 279.14,
+        "waveHeight": 0.98,
+        "wavePeriod": 10.3,
+        "windDirection": 195.03,
+        "windSpeed": 4.26
+    },
+    {
+        "airTemperature": 19.99,
+        "date": "2020-09-15",
+        "hour": "15:00",
+        "waterTemperature": 18.67,
+        "waveDirection": 277.92,
+        "waveHeight": 0.94,
+        "wavePeriod": 10.17,
+        "windDirection": 161.36,
+        "windSpeed": 3.61
+    },
+    {
+        "airTemperature": 19.95,
+        "date": "2020-09-15",
+        "hour": "18:00",
+        "waterTemperature": 19.02,
+        "waveDirection": 277.85,
+        "waveHeight": 0.9,
+        "wavePeriod": 10.0,
+        "windDirection": 245.0,
+        "windSpeed": 4.21
+    },
+    {
+        "airTemperature": 18.99,
+        "date": "2020-09-15",
+        "hour": "21:00",
+        "waterTemperature": 18.49,
+        "waveDirection": 278.89,
+        "waveHeight": 0.85,
+        "wavePeriod": 9.77,
+        "windDirection": 227.71,
+        "windSpeed": 4.55
     }
 ]
