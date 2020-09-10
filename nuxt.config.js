@@ -36,10 +36,6 @@ export default {
         property: 'og:title',
         content: 'A forecast for the beaches around Brittany',
       },
-      {
-        property: 'og:image',
-        content: 'SBScreenshot.png',
-      },
     ],
     link: [
       {
