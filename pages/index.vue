@@ -3,7 +3,7 @@
     :style="{
       backgroundImage: 'url(' + require('@/static/Background_sunset.jpg') + ')',
     }"
-  > -->
+  >-->
   <v-container>
     <div>
       <v-row justify="center">
@@ -188,14 +188,6 @@ export default {
       BGColor: '#E3F2FD',
       BGColorHead: '#BBDEFB',
 
-      cCodeWaveHeight: '#E0E0E0',
-      cCodeWaveFreq: '#E0E0E0',
-      cCodeWaveDir: '#E0E0E0',
-      cCodeWindSpeed: '#E0E0E0',
-      cCodeWindDir: '#E0E0E0',
-      cCodeAirTemp: '#E0E0E0',
-      cCodeWaterTemp: '#E0E0E0',
-
       cCode: {
         good: '#66BB6A',
         average: '#F4FF81',
@@ -210,64 +202,70 @@ export default {
       ]
       return size ? { [size]: true } : {}
     },
-  },
 
-  mounted() {
-    if (0.6 <= this.weatherData[0].waveHeight) {
-      this.cCodeWaveHeight = this.cCode.good
-    } else if (0.3 < this.weatherData[0].waveHeight) {
-      this.cCodeWaveHeight = this.cCode.average
-    } else {
-      this.cCodeWaveHeight = this.cCode.bad
-    }
-
-    if (10 <= this.weatherData[0].wavePeriod) {
-      this.cCodeWaveFreq = this.cCode.good
-    } else if (6 < this.weatherData[0].wavePeriod) {
-      this.cCodeWaveFreq = this.cCode.average
-    } else {
-      this.cCodeWaveFreq = this.cCode.bad
-    }
-
-    if (15 <= this.weatherData[0].waveDirection) {
-      this.cCodeWaveDir = this.cCode.good
-    } else if (10 < this.weatherData[0].waveDirection) {
-      this.cCodeWaveDir = this.cCode.average
-    } else {
-      this.cCodeWaveDir = this.cCode.bad
-    }
-
-    if (this.weatherData[0].windSpeed <= 10) {
-      this.cCodeWindSpeed = this.cCode.good
-    } else if (this.weatherData[0].windSpeed < 20) {
-      this.cCodeWindSpeed = this.cCode.average
-    } else {
-      this.cCodeWindSpeed = this.cCode.bad
-    }
-
-    if (15 <= this.weatherData[0].cCodeWindDir) {
-      this.cCodeWindDir = this.cCode.good
-    } else if (10 < this.weatherData[0].cCodeWindDir) {
-      this.cCodeWindDir = this.cCode.average
-    } else {
-      this.cCodeWindDir = this.cCode.bad
-    }
-
-    if (18 <= this.weatherData[0].airTemperature) {
-      this.cCodeAirTemp = this.cCode.good
-    } else if (12 < this.weatherData[0].airTemperature) {
-      this.cCodeAirTemp = this.cCode.average
-    } else {
-      this.cCodeAirTemp = this.cCode.bad
-    }
-
-    if (15 <= this.weatherData[0].waterTemperature) {
-      this.cCodeWaterTemp = this.cCode.good
-    } else if (10 < this.weatherData[0].waterTemperature) {
-      this.cCodeWaterTemp = this.cCode.average
-    } else {
-      this.cCodeWaterTemp = this.cCode.bad
-    }
+    cCodeWaveHeight() {
+      if (0.6 <= this.weatherData[this.toggle_one].waveHeight) {
+        return this.cCode.good
+      } else if (0.3 < this.weatherData[this.toggle_one].waveHeight) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeWaveFreq() {
+      if (10 <= this.weatherData[this.toggle_one].wavePeriod) {
+        return this.cCode.good
+      } else if (6 < this.weatherData[this.toggle_one].wavePeriod) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeWaveDir() {
+      if (15 <= this.weatherData[this.toggle_one].waveDirection) {
+        return this.cCode.good
+      } else if (10 < this.weatherData[this.toggle_one].waveDirection) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeWindSpeed() {
+      if (this.weatherData[this.toggle_one].windSpeed <= 10) {
+        return this.cCode.good
+      } else if (this.weatherData[this.toggle_one].windSpeed < 20) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeWindDir() {
+      if (15 <= this.weatherData[this.toggle_one].cCodeWindDir) {
+        return this.cCode.good
+      } else if (10 < this.weatherData[this.toggle_one].cCodeWindDir) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeAirTemp() {
+      if (18 <= this.weatherData[this.toggle_one].airTemperature) {
+        return this.cCode.good
+      } else if (12 < this.weatherData[this.toggle_one].airTemperature) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
+    cCodeWaterTemp() {
+      if (15 <= this.weatherData[this.toggle_one].waterTemperature) {
+        return this.cCode.good
+      } else if (10 < this.weatherData[this.toggle_one].waterTemperature) {
+        return this.cCode.average
+      } else {
+        return this.cCode.bad
+      }
+    },
   },
 }
 </script>

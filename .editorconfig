@@ -13,7 +13,7 @@ insert_final_newline = true
 trim_trailing_whitespace = false
 
 {
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   }
